@@ -24,6 +24,7 @@ layout: default
 # Employment
 
 - **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University
+  - [List of supervised students](./students.html)
 - **Jan. 2012-Mar. 2018:** Assistant Professor, Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher, National Institute of Information and Communications Technology, Japan
 

@@ -4,13 +4,13 @@ layout: default
 
 <img align="left" src="./images/lin.jpg"/>
 
-   Global Information Network Laboratory, [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), 
+   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), 
    
    [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
 
    **Office**: Room 107, Research Building 12, Yoshida Campus
 
-   **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan    **Phone**: +81-75-753-4959
+   **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan    [**Phone**: +81-75-753-4959]
 
    **Email**: lindh at i.kyoto-u.ac.jp
 

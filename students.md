@@ -15,10 +15,10 @@ Department of Social Informatics, Kyoto University
 - Linhao Fu (Ongoing)
 - Bowen Wei (Ongoing)
 - Nanto Okawa (Ongoing)
-- Yuto Iwata (Ongoing) [Co-supervised with Prof. Shigeo Matsubara]
-- Bojian Liao (Sep. 2020) [Co-supervised with Prof. Shigeo Matsubara]
+- Yuto Iwata (Ongoing, Co-supervised with Prof. Shigeo Matsubara)
+- Bojian Liao (Sep. 2020, Co-supervised with Prof. Shigeo Matsubara)
   - Thesis: Analysis of Multi-player Price Negotiation in Flea Markets
-- Rui Chen (Sep. 2020) [Co-supervised with Prof. Shigeo Matsubara]
+- Rui Chen (Sep. 2020, Co-supervised with Prof. Shigeo Matsubara)
   - Thesis: An Adaptive Minority Reward System to Improve the Collective Accuracy in a Finite Group
 - Ryosuke Okuno (Mar. 2019)
   - Thesis: Realizing Context-aware Multilingual Interactive Agents

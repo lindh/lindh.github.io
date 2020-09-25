@@ -23,7 +23,7 @@ layout: default
 - **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin) [in Japanese]
 
 # Biography
-
+## Employment
 - **Apr. 2018-Current:** Associate Professor
   - Department of Social Informatics, Kyoto University
   - [List of supervised students](./students.html)
@@ -31,7 +31,7 @@ layout: default
   - Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher
   - National Institute of Information and Communications Technology, Japan
----
+## Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
   - Supervisor: Professor Toru Isihda

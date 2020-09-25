@@ -14,7 +14,6 @@ layout: default
 
    **Email**: lindh at i.kyoto-u.ac.jp
 
-   **Web**: [https://lindh.github.io](https://lindh.github.io)
 
 # Academic Database
 

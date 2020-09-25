@@ -22,15 +22,15 @@ layout: default
 - **ORCID ID:** [https://orcid.org/0000-0001-9462-0216](https://orcid.org/0000-0001-9462-0216)
 - **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin) [in Japanese]
 
-# Employment
+# Biography
 
-- **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University
+- **Apr. 2018-Current:** Associate Professor
+  - Department of Social Informatics, Kyoto University
   - [List of supervised students](./students.html)
-- **Jan. 2012-Mar. 2018:** Assistant Professor, Department of Social Informatics, Kyoto University
-- **Oct. 2008-Dec. 2011:** Researcher, National Institute of Information and Communications Technology, Japan
-
-# Education
-
+- **Jan. 2012-Mar. 2018:** Assistant Professor
+  - Department of Social Informatics, Kyoto University
+- **Oct. 2008-Dec. 2011:** Researcher
+  - National Institute of Information and Communications Technology, Japan
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
   - Supervisor: Professor Toru Isihda

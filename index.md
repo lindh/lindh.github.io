@@ -4,22 +4,13 @@ layout: default
 
 ![Branching](./images/lin.jpg)
 
-Global Information Network Laboratory,
-
-Department of Social Informatics, Graduate School of Informatics,
-
-Kyoto University
+Department of Social Informatics, Graduate School of Informatics, Kyoto University
 
 **Office**: Room 107, Research Building 12, Yoshida Campus
-
-**Phone**: +81-75-753-4959
-
-**Email**: lindh at i.kyoto-u.ac.jp
+**Phone**: +81-75-753-4959    **Email**: lindh at i.kyoto-u.ac.jp
 
 **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
-
 **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
-
 **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
 
 # Employment
@@ -129,5 +120,3 @@ Kyoto University
 - Masahiro Tanaka, Yohei Murakami, Donghui Lin and Toru Ishida, "Service Supervision for Service-oriented Collective Intelligence," 7th IEEE International Conference on Services Computing (IEEE SCC 2010), pp.154-161, July, 2010.
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," The 7th International Conference on Language Resources and Evaluation (LREC 2010), pp.500-506, May, 2010.
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Lessons Learned from Composing Web Services and Human Activities," 7th International Conference on Service Oriented Computing (ICSOC 2009), Industry Track, November, 2009.
-
-_Donghui Lin Updated on Sep. 2020._

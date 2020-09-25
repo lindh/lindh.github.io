@@ -7,10 +7,13 @@ layout: default
 Department of Social Informatics, Graduate School of Informatics, Kyoto University
 
 **Office**: Room 107, Research Building 12, Yoshida Campus
+
 **Phone**: +81-75-753-4959    **Email**: lindh at i.kyoto-u.ac.jp
 
 **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
+
 **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
+
 **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
 
 # Employment

@@ -52,10 +52,6 @@ We aim at developing advanced technologies for Internet-based collaboration infr
 - **Internet of Things**: To realize the interaction between people and things, we focus on the IoT environment that is driven by various sensors and fabrications. By connecting Internet of Services and Internet of Things seamlessly, we aim at realizing the unique collaboration environments.
 - **Multiagent Systems**: A device or software with autonomous intentions can be regarded as an agent. Multiagent system is a system where multiple agents coordinate and compete with each other, which is an essential research topic in the area of artificial intelligence. We focus on the theories and algorithms of multiagent coordination for Internet of Services and Internet of Things.
 
-# Awards
-
-* The Achievement Award of Year 2012, Institute of Electronics, Information and Communication Engineers (IEICE)
-
 # Professional Activities
 
 ## International Conferences and Workshops
@@ -134,3 +130,7 @@ We aim at developing advanced technologies for Internet-based collaboration infr
 - Masahiro Tanaka, Yohei Murakami, Donghui Lin and Toru Ishida, "Service Supervision for Service-oriented Collective Intelligence," 7th IEEE International Conference on Services Computing (IEEE SCC 2010), pp.154-161, July, 2010.
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," The 7th International Conference on Language Resources and Evaluation (LREC 2010), pp.500-506, May, 2010.
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Lessons Learned from Composing Web Services and Human Activities," 7th International Conference on Service Oriented Computing (ICSOC 2009), Industry Track, November, 2009.
+
+# Awards
+
+* The Achievement Award of Year 2012, Institute of Electronics, Information and Communication Engineers (IEICE)

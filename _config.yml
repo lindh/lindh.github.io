@@ -1,1 +1,28 @@
+<<<<<<< Updated upstream
 theme: jekyll-theme-cayman
+=======
+<<<<<<< HEAD
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/lindh/lindh.github.io
+
+title: Donghui Lin, Ph.D, Associate Professor
+description: Donghui Lin's Homepage
+=======
+theme: jekyll-theme-cayman
+>>>>>>> e1e41f07e17ccdeb2065d156e372efceb98bdf37
+>>>>>>> Stashed changes

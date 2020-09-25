@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Supervised Students
-Department of Social Informatics, Kyoto University
+The students are with Department of Social Informatics, Kyoto University if not specified otherwise.
 
 ## Ph.D. Students
 - Huichen Chou (Ongoing, enrolled in Apr. 2019)

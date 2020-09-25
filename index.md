@@ -78,7 +78,7 @@ layout: default
 - Yohei Murakami, Donghui Lin, Toru Ishida (Eds.) Services Computing for Language Resources. Springer, 2018. ISBN 978-981-10-7793-7.
 - Yohei Murakami and Donghui Lin (Eds.) Worldwide Language Service Infrastructure. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9.
 
-## Book Chapters (Selected) [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
+## Selected Book Chapters [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
 - Donghui Lin, Yohei Murakami and Toru Ishida "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda (Eds.) Massively Multi-Agent Systems II. pp. 36-49, Springer, 2019. ISBN 978-3-030-20936-0.
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," Yohei Murakami, Donghui Lin and Toru Ishida (Eds.) Services Computing for Language Resources. pp. 125-137, Springer, 2018. ISBN 978-981-10-7793-7.
 - Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori,"Field-Oriented Service Design: A Multiagent Approach," Takashi Maeno, et.al.(Eds.), Serviceology for Designing the Future, Springer, 2016.
@@ -88,7 +88,7 @@ layout: default
 - Donghui Lin, "Humans in the Loop of Localization Processes," Toru Ishida (Ed.), The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability. Cognitive Technologies Series, Springer, pp.201-213, 2011.
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," Toru Ishida (Ed.), The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability. Cognitive Technologies Series, Springer, pp.19-34, 2011.
 
-## International Journals
+## International Journal Papers
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," IEEE Transactions on Systems, Man, and Cybernetics: Systems, Volumn 50 Issue 2, pp.617-632, 2020.
 - Donghui Lin, Yohei Murakami, and Toru Ishida, "Towards Language Service Creation and Customization for Low-Resource Languages," Information, 11(2), 67, 2020.
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, Donghui Lin, Zhan Bu, Jie Cao, Zhifeng Hao, "Understanding Crowdsourcing Systems from a Multiagent Perspective and Approach," ACM Transactions on Autonomous and Adaptive Systems, Volume 13 Issue 2, Article No. 8, July 2018.
@@ -104,11 +104,11 @@ layout: default
 - Yichuan Jiang, Jing Hu and Donghui Lin, "Decision Making of Networked Multiagent Systems for Interaction Structures," IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans, Vol.41, No.6, pp.1107-1121, 2011.
 - Donghui Lin, Huanye Sheng and Toru Ishida, "Interorganizational Workflow Execution Based on Process Agents and ECA Rules," IEICE Transactions on Information and Systems, Vol.E90-D, No.9, pp.1335-1342, Sep. 2007.
 
-## Selected Journals in Japanese
+## Selected Journal Papers in Japanese
 - Donghui Lin, Toru Ishida, Yohei Murakami, Masayuki Otani, and Takao Nakaguchi, "Multi-Language Agricultural Support with the Language Grid," IEICE Transactions on Information and Systems, Vol.J100-B, No.9, pp.714-721, 2017. (IEICE 100 Anniversary Invited Paper, in Japanese)
 - Toru Ishida, Yohei Murakami, Rieko Inaba, Donghui Lin, and Masahiro Tanaka, "The Language Grid: Service-Oriented Multi-Language Infrastructure," IEICE Transactions on Information and Systems D, January 2012. (in Japanese, Invited Paper)
 
-## International Conferences (Selected) [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
+## Selected International Conference Papers [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
 - Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," The 17th IEEE International Conference on Services Computing (IEEE SCC 2020), Beijing, China, October, 2020.
 - Donghui Lin, Masayuki Otani, Ryosuke Okuno, and Toru Ishida, "Designing Multilingual Interactive Agents using Small Dialogue Corpora," The 12th International Conference on Language Resources and Evaluation (LREC2020), May, 2020.
 - Jiapeng Dai, Donghui Lin, and Toru Ishida, "A Two-phase Method of QoS Prediction for Situated Service Recommendation," The 15th IEEE International Conference on Services Computing (IEEE SCC 2018), pp.137-144, San Francisco, USA, July, 2018.

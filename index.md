@@ -16,8 +16,6 @@ layout: default
 
 <br>
 
-# Academic Database
-
 - **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
 - **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
@@ -34,9 +32,9 @@ layout: default
 # Education
 
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
-  - Laboratory for Global Information Network, Department of Social Informatics, Kyoto University
+  - Department of Social Informatics, Kyoto University
   - Supervisor: Professor Toru Isihda
-  - Dissertation: Modeling and Coordination in Interorganizational Workflow
+  - Thesis: Modeling and Coordination in Interorganizational Workflow
 - **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
   - Supervisor: Professor Huanye Sheng

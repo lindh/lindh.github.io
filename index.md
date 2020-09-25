@@ -6,10 +6,12 @@ layout: default
 
 # Contact
 
-- **Affiliation**: Department of Social Informatics, Graduate School of Informatics, Kyoto University
+- **Affiliation**: [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
 - **Office**: Room 107, Research Building 12, Yoshida Campus
 - **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan  
-- **Phone**: +81-75-753-4959    **Email**: lindh at i.kyoto-u.ac.jp
+- **Phone**: +81-75-753-4959
+- **Email**: lindh at i.kyoto-u.ac.jp
+- **Web**: [https://lindh.github.io](https://lindh.github.io)
 
 # Academic Database
 
@@ -17,32 +19,33 @@ layout: default
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
 - **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
 - **ORCID ID:** [https://orcid.org/0000-0001-9462-0216](https://orcid.org/0000-0001-9462-0216)
-- **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin)[in Japanese]
+- **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin) [in Japanese]
 
 # Employment
 
-* Apr. 2018-Current: Associate Professor, Department of Social Informatics, Kyoto University
-* Jan. 2012-Mar. 2018: Assistant Professor, Department of Social Informatics, Kyoto University
-* Oct. 2008-Dec. 2011: Researcher, National Institute of Information and Communications Technology, Japan
+- **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University
+- **Jan. 2012-Mar. 2018:** Assistant Professor, Department of Social Informatics, Kyoto University
+- **Oct. 2008-Dec. 2011:** Researcher, National Institute of Information and Communications Technology, Japan
 
 # Education
 
-- Oct. 2005-Sep. 2008: Ph.D of Informatics
+- **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Laboratory for Global Information Network, Department of Social Informatics, Kyoto University
   - Supervisor: Professor Toru Isihda
   - Dissertation: Modeling and Coordination in Interorganizational Workflow
-- Sep. 2002-Mar. 2005: Master of Engineering
+- **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
   - Supervisor: Professor Huanye Sheng
-- Sep. 1998-Jul. 2002: Bachelor of Engineering
+- **Sep. 1998-Jul. 2002:** Bachelor of Engineering
   - Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
 # Areas of Interests
 
-* Services Computing and Internet of Things
-* Multiagent Systems
-* Language Service Infrastructure
-* Intercultural Collaboration and Multi-language Communication
+- Services Computing
+- Internet of Things
+- Multiagent Systems
+- Intercultural Collaboration
+- Collaborative System Design
 
 # Awards
 
@@ -75,7 +78,7 @@ layout: default
 - Yohei Murakami, Donghui Lin, Toru Ishida (Eds.) Services Computing for Language Resources. Springer, 2018. ISBN 978-981-10-7793-7.
 - Yohei Murakami and Donghui Lin (Eds.) Worldwide Language Service Infrastructure. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9.
 
-## Book Chapters (Selected) [[Full list available at the DBLP site](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
+## Book Chapters (Selected) [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
 - Donghui Lin, Yohei Murakami and Toru Ishida "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda (Eds.) Massively Multi-Agent Systems II. pp. 36-49, Springer, 2019. ISBN 978-3-030-20936-0.
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," Yohei Murakami, Donghui Lin and Toru Ishida (Eds.) Services Computing for Language Resources. pp. 125-137, Springer, 2018. ISBN 978-981-10-7793-7.
 - Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori,"Field-Oriented Service Design: A Multiagent Approach," Takashi Maeno, et.al.(Eds.), Serviceology for Designing the Future, Springer, 2016.
@@ -105,7 +108,7 @@ layout: default
 - Donghui Lin, Toru Ishida, Yohei Murakami, Masayuki Otani, and Takao Nakaguchi, "Multi-Language Agricultural Support with the Language Grid," IEICE Transactions on Information and Systems, Vol.J100-B, No.9, pp.714-721, 2017. (IEICE 100 Anniversary Invited Paper, in Japanese)
 - Toru Ishida, Yohei Murakami, Rieko Inaba, Donghui Lin, and Masahiro Tanaka, "The Language Grid: Service-Oriented Multi-Language Infrastructure," IEICE Transactions on Information and Systems D, January 2012. (in Japanese, Invited Paper)
 
-## International Conferences (Selected) [[Full list available at the DBLP site](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
+## International Conferences (Selected) [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
 - Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," The 17th IEEE International Conference on Services Computing (IEEE SCC 2020), Beijing, China, October, 2020.
 - Donghui Lin, Masayuki Otani, Ryosuke Okuno, and Toru Ishida, "Designing Multilingual Interactive Agents using Small Dialogue Corpora," The 12th International Conference on Language Resources and Evaluation (LREC2020), May, 2020.
 - Jiapeng Dai, Donghui Lin, and Toru Ishida, "A Two-phase Method of QoS Prediction for Situated Service Recommendation," The 15th IEEE International Conference on Services Computing (IEEE SCC 2018), pp.137-144, San Francisco, USA, July, 2018.

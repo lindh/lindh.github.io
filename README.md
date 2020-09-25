@@ -89,8 +89,7 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
-=======
->>>>>>> Stashed changes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lindh/lindh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

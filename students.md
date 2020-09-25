@@ -8,7 +8,7 @@ Department of Social Informatics, Kyoto University
 ## Ph.D. Students
 - Huichen Chou (Ongoing, enrolled in Apr. 2019)
 - Shiyao Ding (Ongoing, enrolled in Oct. 2019)
-- [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)(Mar. 2020)
+- [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/) (Mar. 2020)
   - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://doi.org/10.14989/doctor.k22579)
 
 ## Master Students

@@ -31,6 +31,7 @@ layout: default
   - Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher
   - National Institute of Information and Communications Technology, Japan
+---
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
   - Supervisor: Professor Toru Isihda

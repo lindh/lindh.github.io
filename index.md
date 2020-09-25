@@ -4,17 +4,20 @@ layout: default
 
 ![Branching](./images/lin.jpg)
 
-Department of Social Informatics, Graduate School of Informatics, Kyoto University
+# Contact
 
-**Office**: Room 107, Research Building 12, Yoshida Campus
+- **Affiliation**: Department of Social Informatics, Graduate School of Informatics, Kyoto University
+- **Office**: Room 107, Research Building 12, Yoshida Campus
+- **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan  
+- **Phone**: +81-75-753-4959    **Email**: lindh at i.kyoto-u.ac.jp
 
-**Phone**: +81-75-753-4959    **Email**: lindh at i.kyoto-u.ac.jp
+# Academic Database
 
-**Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
-
-**Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
-
-**Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
+- **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
+- **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
+- **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
+- **ORCID ID:** [https://orcid.org/0000-0001-9462-0216](https://orcid.org/0000-0001-9462-0216)
+- **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin)[in Japanese]
 
 # Employment
 

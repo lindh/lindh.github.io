@@ -6,7 +6,7 @@ layout: default
 
    [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
 
-   **Office**: Room 107, Research Building 12, Yoshida Campus
+   **Office**: Room 107, Research Bldg No 12, Main Campus ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
 
    **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan    
    

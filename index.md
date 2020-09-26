@@ -57,7 +57,7 @@ We aim at developing advanced technologies for Internet-based collaboration infr
 - **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), **Principal Investigator (PI)**, July. 2020-Mar. 2023
 - **[Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), **Principal Investigator (PI)**, Apr. 2018-Mar. 2021
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), **Co-Investigator**, Apr. 2017-Mar. 2021
-- **[The Language Grid](http://langrid.org)**, Non-profit research project at NPO Language Grid Association, **Vice Chairman**, May 2018-Current
+- **[The Language Grid](http://langrid.org)**, Non-funded research project at NPO Language Grid Association, **Vice Chairman**, May 2018-Current
 
 # Professional Activities
 

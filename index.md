@@ -25,7 +25,8 @@ layout: default
 # Biography
 
 ## Employment
-- **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University ([List of supervised students](./students.html))
+- **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University 
+  - [List of Supervised Students](./students.html)
 - **Jan. 2012-Mar. 2018:** Assistant Professor, Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher, National Institute of Information and Communications Technology, Japan
 
@@ -33,9 +34,8 @@ layout: default
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics, Department of Social Informatics, Kyoto University
   - Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
   - Thesis: Modeling and Coordination in Interorganizational Workflow
-- **Sep. 2002-Mar. 2005:** Master of Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
-  - Supervisor: Professor Huanye Sheng
-- **Sep. 1998-Jul. 2002:** Bachelor of Engineering, Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
+- **Sep. 2002-Mar. 2005:** M.E., Department of Computer Science and Engineering, Shanghai Jiao Tong University
+- **Sep. 1998-Jul. 2002:** B.E., Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
 # Research
 We aim at developing advanced technologies for Internet-based collaboration infrastructures. Based on fundamental technologies of artificial intelligence and human computer interaction, we address latest research challenges of services computing and Internet of Things (IoT) to realize the interaction between various cloud services on the Internet and the physical world where we live in. Moreover, we conduct global activities to promote the research of the Language Grid, a language service infrastructure we have developed for supporting intercultural collaboration and multi-language communication. 

@@ -17,8 +17,6 @@ layout: default
    <br>
    **Email**: lindh at i.kyoto-u.ac.jp
 
-<br>
-
 - **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
 - **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)

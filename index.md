@@ -75,19 +75,19 @@ We aim at developing advanced technologies for Internet-based collaboration infr
 # Publications
 
 ## Books
-- Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda (Eds.) Massively Multi-Agent Systems II. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0.
-- Yohei Murakami, Donghui Lin, Toru Ishida (Eds.) Services Computing for Language Resources. Springer, 2018. ISBN 978-981-10-7793-7.
-- Yohei Murakami and Donghui Lin (Eds.) Worldwide Language Service Infrastructure. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9.
+- Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
+- Yohei Murakami, Donghui Lin, Toru Ishida, Eds., _Services Computing for Language Resources_. Springer, 2018. ISBN 978-981-10-7793-7. [[DOI](https://doi.org/10.1007/978-981-10-7793-7)]
+- Yohei Murakami and Donghui Lin, Eds., _Worldwide Language Service Infrastructure_. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9. [[DOI](https://doi.org/10.1007/978-3-319-31468-6)]
 
 ## Selected Book Chapters [[Full list at DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)]
-- Donghui Lin, Yohei Murakami and Toru Ishida "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda (Eds.) Massively Multi-Agent Systems II. pp. 36-49, Springer, 2019. ISBN 978-3-030-20936-0.
-- Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," Yohei Murakami, Donghui Lin and Toru Ishida (Eds.) Services Computing for Language Resources. pp. 125-137, Springer, 2018. ISBN 978-981-10-7793-7.
-- Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori,"Field-Oriented Service Design: A Multiagent Approach," Takashi Maeno, et.al.(Eds.), Serviceology for Designing the Future, Springer, 2016.
-- Donghui Lin, Toru Ishida, and Masayuki Otani, "A Value Co-Creation Model for Multi-Language Knowledge Communication," Takashi Maeno, et.al.(Eds.), Serviceology for Designing the Future, Springer, 2016.
-- Donghui Lin and Toru Ishida, "User-Centered Service Design for Multi-Language Knowledge Communication," Masaaki Mochimaru, et.al.(Eds.), Serviceology for Services. Springer, 2014.
-- Yohei Murakami, Donghui Lin, and Toru Ishida, "Service-Oriented Architecture for Interoperability of Multi-Language Services," Paul Buitelaar and Philipp Cimiano (Eds.), Towards the Multilingual Semantic Web. Springer, 2014.
-- Donghui Lin, "Humans in the Loop of Localization Processes," Toru Ishida (Ed.), The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability. Cognitive Technologies Series, Springer, pp.201-213, 2011.
-- Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," Toru Ishida (Ed.), The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability. Cognitive Technologies Series, Springer, pp.19-34, 2011.
+- Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp. 36-49, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
+- Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds, pp. 125-137, Springer, 2018. ISBN 978-981-10-7793-7. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
+- Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori, "Field-Oriented Service Design: A Multiagent Approach," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp. 451-463, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_31)]
+- Donghui Lin, Toru Ishida, and Masayuki Otani, "A Value Co-Creation Model for Multi-Language Knowledge Communication," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp. 435-447, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_30)]
+- Donghui Lin and Toru Ishida, "User-Centered Service Design for Multi-Language Knowledge Communication," in _Serviceology for Services_, Masaaki Mochimaru, et.al. Eds., pp. 309-317, Springer, 2014. [[DOI](https://doi.org/10.1007/978-4-431-54816-4_32)]
+- Yohei Murakami, Donghui Lin, and Toru Ishida, "Service-Oriented Architecture for Interoperability of Multi-Language Services," in _Towards the Multilingual Semantic Web_, Paul Buitelaar and Philipp Cimiano, Eds., pp. 313-328, Springer, 2014. [[DOI](https://doi.org/10.1007/978-3-662-43585-4_19)]
+- Donghui Lin, "Humans in the Loop of Localization Processes," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp. 201-213, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_13)]
+- Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp. 19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ## International Journal Papers
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," IEEE Transactions on Systems, Man, and Cybernetics: Systems, Volumn 50 Issue 2, pp.617-632, 2020.

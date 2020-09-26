@@ -26,20 +26,20 @@ layout: default
 
 ## Employment
 - **Apr. 2018-Current:** Associate Professor
-  - Department of Social Informatics, Kyoto University
+  - [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
   - [List of supervised students](./students.html)
 - **Jan. 2012-Mar. 2018:** Assistant Professor
-  - Department of Social Informatics, Kyoto University
+  - [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
 - **Oct. 2008-Dec. 2011:** Researcher
-  - National Institute of Information and Communications Technology, Japan
+  - [National Institute of Information and Communications Technology, Japan](https://www.nict.go.jp/en/index.html)
 
 ## Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
-  - Department of Social Informatics, Kyoto University
-  - Supervisor: Professor Toru Isihda
+  - [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
+  - Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
   - Thesis: Modeling and Coordination in Interorganizational Workflow
 - **Sep. 2002-Mar. 2005:** Master of Engineering
-  - Department of Computer Science and Engineering, Shanghai Jiao Tong University
+  - [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)
   - Supervisor: Professor Huanye Sheng
 - **Sep. 1998-Jul. 2002:** Bachelor of Engineering
   - Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications

@@ -52,7 +52,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-# Professional Activities
+# Academic Services
 
 ## International Conferences and Workshops
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
@@ -69,7 +69,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 
-## Review Service
+## Review Service for Journals
 - IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
 
 # Publications

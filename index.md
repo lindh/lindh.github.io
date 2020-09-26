@@ -12,9 +12,12 @@ layout: default
    <br>
    **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan
    <br>
+   <br>
    **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820
    <br>
    **Email**: lindh at i.kyoto-u.ac.jp
+
+<br>
 
 - **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)

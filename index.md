@@ -38,13 +38,13 @@ layout: default
 - **Sep. 1998-Jul. 2002:** B.E., Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
 # Research
-We aim at developing advanced technologies for Internet-based collaboration infrastructures. Based on fundamental technologies of artificial intelligence and human computer interaction, we address latest research challenges of services computing and Internet of Things (IoT) to realize the interaction between various cloud services on the Internet and the physical world where we live in. Moreover, we conduct global activities to promote the research of the Language Grid, a language service infrastructure we have developed for supporting intercultural collaboration and multi-language communication. 
+My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of artificial intelligence and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services on the Internet and the physical world where we live in. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities in the real fields.
 
-## Research Topics
-- **Language Service Infrastructure**: To overcome the language barriers, we conduct worldwide collaboration to enhance the research of multi-language service infrastructure for combining various language resources like machine translators and bilingual dictionaries. 
+## Research Interests
 - **Services Computing (Internet of Services)**: We conduct the research on advanced technologies for service-oriented infrastructures that freely enables the composition of various cloud services on the Internet. In particular, our research focuses on QoS-aware service composition, self-organization of service networks, and situated service recommendation.
 - **Internet of Things**: To realize the interaction between people and things, we focus on the IoT environment that is driven by various sensors and fabrications. By connecting Internet of Services and Internet of Things seamlessly, we aim at realizing the unique collaboration environments.
 - **Multiagent Systems**: A device or software with autonomous intentions can be regarded as an agent. Multiagent system is a system where multiple agents coordinate and compete with each other, which is an essential research topic in the area of artificial intelligence. We focus on the theories and algorithms of multiagent coordination for Internet of Services and Internet of Things.
+- **Intercultural Collaboration**: To overcome the language barriers, we conduct worldwide collaboration to enhance the research of multi-language service infrastructure for combining various language resources like machine translators and bilingual dictionaries. 
 
 ## Ongoing Research Projects
 - **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023

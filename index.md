@@ -3,9 +3,8 @@ layout: default
 ---
 
 <img align="left" src="./images/lin.jpg"/>
-   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), 
-   <br>
-   [Kyoto University](https://www.kyoto-u.ac.jp/en/) 
+
+   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/) 
    <br>
    **Office**: Room 107, Research Bldg No 12, Main Campus ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
    <br>

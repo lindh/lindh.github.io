@@ -54,10 +54,10 @@ We aim at developing advanced technologies for Internet-based collaboration infr
 - **Multiagent Systems**: A device or software with autonomous intentions can be regarded as an agent. Multiagent system is a system where multiple agents coordinate and compete with each other, which is an essential research topic in the area of artificial intelligence. We focus on the theories and algorithms of multiagent coordination for Internet of Services and Internet of Things.
 
 ## Ongoing Research Projects
-- **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), **Principal Investigator (PI)**, July. 2020-Mar. 2023
-- **[Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), **Principal Investigator (PI)**, Apr. 2018-Mar. 2021
-- **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), **Co-Investigator**, Apr. 2017-Mar. 2021
-- **[The Language Grid](http://langrid.org)**, Non-funded research project at NPO Language Grid Association, **Vice Chairman**
+- **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
+- **[Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
+- **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
+- **[The Language Grid](http://langrid.org)**, **Vice Chairman**, Non-funded research project at NPO Language Grid Association
 
 # Professional Activities
 

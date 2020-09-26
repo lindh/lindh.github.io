@@ -47,10 +47,17 @@ layout: default
 # Research
 We aim at developing advanced technologies for Internet-based collaboration infrastructures. Based on fundamental technologies of artificial intelligence and human computer interaction, we address latest research challenges of services computing and Internet of Things (IoT) to realize the interaction between various cloud services on the Internet and the physical world where we live in. Moreover, we conduct global activities to promote the research of the Language Grid, a language service infrastructure we have developed for supporting intercultural collaboration and multi-language communication. 
 
+## Research Topics
 - **Language Service Infrastructure**: To overcome the language barriers, we conduct worldwide collaboration to enhance the research of multi-language service infrastructure for combining various language resources like machine translators and bilingual dictionaries. 
 - **Services Computing (Internet of Services)**: We conduct the research on advanced technologies for service-oriented infrastructures that freely enables the composition of various cloud services on the Internet. In particular, our research focuses on QoS-aware service composition, self-organization of service networks, and situated service recommendation.
 - **Internet of Things**: To realize the interaction between people and things, we focus on the IoT environment that is driven by various sensors and fabrications. By connecting Internet of Services and Internet of Things seamlessly, we aim at realizing the unique collaboration environments.
 - **Multiagent Systems**: A device or software with autonomous intentions can be regarded as an agent. Multiagent system is a system where multiple agents coordinate and compete with each other, which is an essential research topic in the area of artificial intelligence. We focus on the theories and algorithms of multiagent coordination for Internet of Services and Internet of Things.
+
+## Ongoing Research Projects
+- **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), **Principal Investigator (PI)**, July. 2020-Mar. 2023
+- **[Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), **Principal Investigator (PI)**, Apr. 2018-Mar. 2021
+- **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), **Co-Investigator**, Apr. 2017-Mar. 2021
+- **[The Language Grid](http://langrid.org)**, Non-profit research project at NPO Language Grid Association, **Vice Chairman**, May 2018-Current
 
 # Professional Activities
 

@@ -21,7 +21,7 @@ layout: default
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)
 - **Grants (Research Projects):** [https://nrid.nii.ac.jp/en/nrid/1000090534131/](https://nrid.nii.ac.jp/en/nrid/1000090534131/)
 - **ORCID ID:** [https://orcid.org/0000-0001-9462-0216](https://orcid.org/0000-0001-9462-0216)
-- **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin) [in Japanese]
+- **Researchmap:** [https://researchmap.jp/DonghuiLin](https://researchmap.jp/DonghuiLin?lang=en)
 
 # Biography
 

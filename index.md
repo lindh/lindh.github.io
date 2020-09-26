@@ -4,17 +4,17 @@ layout: default
 
 <img align="left" src="./images/lin.jpg"/>
 
-   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/) 
+   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/),    
+   [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
+   <br>
    <br>
    **Office**: Room 107, Research Bldg No 12, Main Campus ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
    <br>
-   **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan    
+   **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan
    <br>
-   **Phone**: +81-75-753-4959
+   **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820
    <br>
    **Email**: lindh at i.kyoto-u.ac.jp
-
-<br>
 
 - **Computer Science Bibliography DBLP:** [https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui)
 - **Kyoto University Activity Database:** [https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA)

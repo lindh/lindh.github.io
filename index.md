@@ -15,13 +15,13 @@ layout: default
    <br>
    <br>
    **Researcher Database Links**:   
-   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
+   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto-U DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
 
 ## Biography
 
 ### Employment
 - **Apr. 2018-Current:** Associate Professor
-  - Department of Social Informatics, Kyoto University ([List of Supervised Students](./students.html))
+  - Department of Social Informatics, Kyoto University ([List of supervised students](./students.html))
 - **Jan. 2012-Mar. 2018:** Assistant Professor
   - Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher
@@ -30,7 +30,7 @@ layout: default
 ### Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
-  - Doctoral Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
+  - Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
 )
 - **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
@@ -38,13 +38,13 @@ layout: default
   - Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
 ## Research
-My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities in the real fields.
+My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities.
 
 ### Research Interests
-- **Services Computing (Internet of Services)**: service-oriented architecture for collaboration infrastructure, QoS-aware service composition, crowdsourcing, service recommendation
-- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, task allocation and resource allocation in edge cloud computing, situated service composition for IoT environments
-- **Multiagent Systems**: multiagent coordination for Internet of Services and Internet of Things, multiagent-based simulation for collaborative system design, interactive agents
-- **Intercultural Collaboration**: analysis of machine translation mediated communication, design of multi-language communication and intercultural collaboration
+- **Services Computing (Internet of Services)**: service-oriented architecture for collaborative system, QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure
+- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, situated interactive agents in IoT environments, task allocation and resource allocation in edge cloud computing
+- **Multiagent Systems**: multiagent coordination for Internet of Services and Internet of Things, multiagent simulation for collaborative system design, multiagent reinforcement learning
+- **Intercultural Collaboration**: analysis of machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Ongoing Research Projects
 - **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023

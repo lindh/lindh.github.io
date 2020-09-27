@@ -52,7 +52,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-## Selected Publications 
+## Selected Publications
 [The complete publication list is available here ](./publication.html)(last updated: September 2020).
 
 ### Books
@@ -63,7 +63,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 ### Book Chapters
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
-- Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds, pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
+- Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds., pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
 - Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori, "Field-Oriented Service Design: A Multiagent Approach," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.451-463, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_31)]
 - Donghui Lin, Toru Ishida, and Masayuki Otani, "A Value Co-Creation Model for Multi-Language Knowledge Communication," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.435-447, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_30)]
 - Donghui Lin and Toru Ishida, "User-Centered Service Design for Multi-Language Knowledge Communication," in _Serviceology for Services_, Masaaki Mochimaru, et.al. Eds., pp.309-317, Springer, 2014. [[DOI](https://doi.org/10.1007/978-4-431-54816-4_32)]
@@ -119,20 +119,18 @@ My research aims at generating advanced technologies for Internet-based collabor
 ### International Conferences and Workshops
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-Current, Program Committee
 - IEEE International Conference on Services Computing (SCC), 2013-Current, Program Committee
-- International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
-- International Conference on Culture and Computing 2013, 2015, 2017, Program Co-Chair
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020-Current, Program Committee
-- IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
-- IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
-- International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
+- International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-Current, Board Member
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-Current, Program Committee
-- IEEE International Conference on Service-Oriented Computing and Applications (SOCA), 2017, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-Current, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-Current, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-Current, Scientific Committee
-- International Conference on Culture and Computing, 2011, Organization Co-Chair
-- International Conference on Culture and Computing, 2020-Current, Board Member
-- International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
+- IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
+- IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
+- International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
+- International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
+- IEEE International Conference on Service-Oriented Computing and Applications (SOCA), 2017, Program Committee
+- International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013-2016 Workshop Co-Chair
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 
 ### Review Service for Journals

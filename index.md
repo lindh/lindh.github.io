@@ -41,14 +41,10 @@ layout: default
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities in the real fields.
 
 ### Research Interests
-- **Services Computing (Internet of Services)**
-  - Topics: service-oriented architecture for collaboration infrastructure, QoS-aware service composition, crowdsourcing, service recommendation
-- **Internet of Things (IoT)**
-  - Topics: integrated architecture for Internet of Services and Things, task allocation and resource allocation in edge cloud computing, situated service composition for IoT environments
-- **Multiagent Systems**
-  - Topics: multiagent coordination for Internet of Services and Internet of Things, multiagent-based simulation for collaborative system design, interactive agents
-- **Intercultural Collaboration**
-  - Topics: analysis of machine translation mediated communication, design of multi-language communication and intercultural collaboration
+- **Services Computing (Internet of Services)**: service-oriented architecture for collaboration infrastructure, QoS-aware service composition, crowdsourcing, service recommendation
+- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, task allocation and resource allocation in edge cloud computing, situated service composition for IoT environments
+- **Multiagent Systems**: multiagent coordination for Internet of Services and Internet of Things, multiagent-based simulation for collaborative system design, interactive agents
+- **Intercultural Collaboration**: analysis of machine translation mediated communication, design of multi-language communication and intercultural collaboration
 
 ### Ongoing Research Projects
 - **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023

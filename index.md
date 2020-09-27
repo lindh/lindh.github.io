@@ -30,8 +30,7 @@ layout: default
 ### Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
-  - Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
-)
+  - Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Prof. Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida))
 - **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
 - **Sep. 1998-Jul. 2002:** Bachelor of Engineering

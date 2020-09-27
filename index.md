@@ -52,26 +52,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-## Professional Activity
-
-### International Conferences and Workshops
-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
-- IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
-- International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
-- International Conference on Culture and Computing 2013, 2015, 2017, Program Co-Chair
-- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020 Program Committee
-- IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
-- IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
-- International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2020, Program Committee
-- The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee
-- International Conference on Culture and Computing 2011, Organization Co-Chair
-- International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
-- International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
-
-### Review Service for Journals
-- IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
-
 ## Selected Publications ([See Complete List](./publication.html))
 
 ### Books
@@ -132,6 +112,26 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Donghui Lin, Yohei Murakami, and Masahiro Tanaka, "Dynamic Service Invocation Control in Service Composition Environments," _7th IEEE International Conference on Services Computing (IEEE SCC 2010)_, pp.25-32, July, 2010. [[PDF](./files/SCC2010_Lin.pdf)][[DOI](https://doi.org/10.1109/SCC.2010.65)]
 - Masahiro Tanaka, Yohei Murakami, Donghui Lin and Toru Ishida, "Service Supervision for Service-oriented Collective Intelligence," _7th IEEE International Conference on Services Computing (IEEE SCC 2010)_, pp.154-161, July, 2010. [[PDF](./files/SCC2010_Tanaka.pdf)][[DOI](https://doi.org/10.1109/SCC.2010.64)]
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," _The 7th International Conference on Language Resources and Evaluation (LREC 2010)_, pp.500-506, May, 2010. [[PDF](http://www.lrec-conf.org/proceedings/lrec2010/pdf/317_Paper.pdf)]
+
+## Professional Activity
+
+### International Conferences and Workshops
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
+- IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
+- International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
+- International Conference on Culture and Computing 2013, 2015, 2017, Program Co-Chair
+- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020 Program Committee
+- IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
+- IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
+- International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2020, Program Committee
+- The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee
+- International Conference on Culture and Computing 2011, Organization Co-Chair
+- International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
+- International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
+
+### Review Service for Journals
+- IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
 
 ## Awards
 

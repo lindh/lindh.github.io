@@ -25,18 +25,22 @@ layout: default
 
 # Biography
 
-## Employment
-- **Apr. 2018-Current:** Associate Professor, Department of Social Informatics, Kyoto University 
-  - [List of Supervised Students](./students.html)
-- **Jan. 2012-Mar. 2018:** Assistant Professor, Department of Social Informatics, Kyoto University
-- **Oct. 2008-Dec. 2011:** Researcher, National Institute of Information and Communications Technology, Japan
+- **Apr. 2018-Current:** Associate Professor
+  - Department of Social Informatics, Kyoto University ([List of Supervised Students](./students.html))
+- **Jan. 2012-Mar. 2018:** Assistant Professor
+  - Department of Social Informatics, Kyoto University
+- **Oct. 2008-Dec. 2011:** Researcher
+  - National Institute of Information and Communications Technology, Japan
+<br>
 
-## Education
-- **Oct. 2005-Sep. 2008:** Ph.D of Informatics, Department of Social Informatics, Kyoto University
-  - Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
-  - Thesis: Modeling and Coordination in Interorganizational Workflow
-- **Sep. 2002-Mar. 2005:** M.E., Department of Computer Science and Engineering, Shanghai Jiao Tong University
-- **Sep. 1998-Jul. 2002:** B.E., Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
+- **Oct. 2005-Sep. 2008:** Ph.D of Informatics
+  - Department of Social Informatics, Kyoto University
+  - Doctoral Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
+)
+- **Sep. 2002-Mar. 2005:** Master of Engineering
+  - Department of Computer Science and Engineering, Shanghai Jiao Tong University
+- **Sep. 1998-Jul. 2002:** Bachelor of Engineering
+  - Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
 # Research
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of artificial intelligence and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities in the real fields.

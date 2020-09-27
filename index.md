@@ -17,9 +17,9 @@ layout: default
    **Researcher Database Links**:   
    [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
 
-# Biography
+## Biography
 
-## Employment
+### Employment
 - **Apr. 2018-Current:** Associate Professor
   - Department of Social Informatics, Kyoto University ([List of Supervised Students](./students.html))
 - **Jan. 2012-Mar. 2018:** Assistant Professor
@@ -27,7 +27,7 @@ layout: default
 - **Oct. 2008-Dec. 2011:** Researcher
   - National Institute of Information and Communications Technology, Japan
 
-## Education
+### Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
   - Doctoral Thesis: Modeling and Coordination in Interorganizational Workflow (Supervisor: [Professor Toru Isihda](https://en.wikipedia.org/wiki/Toru_Ishida)
@@ -37,24 +37,24 @@ layout: default
 - **Sep. 1998-Jul. 2002:** Bachelor of Engineering
   - Department of Computer Science and Technology, Nanjing University of Posts and Telecommunications
 
-# Research
+## Research
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of artificial intelligence and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities in the real fields.
 
-## Research Interests
+### Research Interests
 - **Services Computing (Internet of Services)**: To freely enable the easy composition of various cloud services, I conduct research on advanced technologies for service-oriented infrastructures on the Internet. In particular, my research focuses on service architecture for collaboration infrastructure, QoS-aware service composition, and situated service recommendation.
 - **Internet of Things (IoT)**: To realize the interaction between people and things, I conduct research on the IoT environment that is driven by various sensors and fabrications. The research topics include integrated architecture for Internet of Services and Things, task allocation and resource allocation in edge cloud computing for IoT, and situated interactive agents in IoT environments.
 - **Multiagent Systems**: A device or software with autonomous intentions can be regarded as an agent. Multiagent system is a system where multiple agents coordinate and compete with each other, which is an essential topic in artificial intelligence. My research is focusing on the theories and algorithms of multiagent coordination for Internet of Services and Internet of Things.
 - **Intercultural Collaboration**: To overcome the language barriers, our research group have been developing the language service infrastructure on the Internet for decades. The research topics include analysis and design of multi-language communication and intercultural collaboration. I work with NPOs for international activities to deliver the research results to the real collaboration fields.
 
-## Ongoing Research Projects
+### Ongoing Research Projects
 - **[Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
 - **[Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/)**, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-# Academic Services
+## Academic Services
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
 - International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
@@ -69,18 +69,17 @@ My research aims at generating advanced technologies for Internet-based collabor
 - International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 
-## Review Service for Journals
+### Review Service for Journals
 - IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
 
-# Selected Publications
-[See the complete publication list here.](./publication.html)
+## Selected Publications ([See Complete List](./publication.html))
 
-## Books
+### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
 - Yohei Murakami, Donghui Lin, Toru Ishida, Eds., _Services Computing for Language Resources_. Springer, 2018. ISBN 978-981-10-7793-7. [[DOI](https://doi.org/10.1007/978-981-10-7793-7)]
 - Yohei Murakami and Donghui Lin, Eds., _Worldwide Language Service Infrastructure_. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9. [[DOI](https://doi.org/10.1007/978-3-319-31468-6)]
 
-## Book Chapters
+### Book Chapters
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds, pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
@@ -91,7 +90,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Donghui Lin, "Humans in the Loop of Localization Processes," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.201-213, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_13)]
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
-## International Journal Papers
+### International Journal Papers
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[PDF](./files/IEEE_TSMC_2020.pdf)][[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]
 - Donghui Lin, Yohei Murakami, and Toru Ishida, "Towards Language Service Creation and Customization for Low-Resource Languages," _Information_, 11(2), 67, 2020. [[PDF](./files/information-11-00067-v2.pdf)][[DOI](https://doi.org/10.3390/info11020067)]
 - Mondheera Pituxcoosuvarn, Takao Nakaguchi, Donghui Lin and Toru Ishida, "Privacy-Aware Best-Balanced Multilingual Communication," _IEICE Transactions on Information and Systems_, E103-D(6), pp.1288-1296, 2020. [[PDF](./files/e103-d_6_1288.pdf)][[DOI](https://doi.org/10.1587/transinf.2019KBP0008)]
@@ -108,11 +107,11 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Yichuan Jiang, Jing Hu and Donghui Lin, "Decision Making of Networked Multiagent Systems for Interaction Structures," _IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans_, 41(6), pp.1107-1121, 2011. [[PDF](./files/IEEESMCA2011_Jiang.pdf)][[DOI](https://doi.org/10.1109/TSMCA.2011.2114343)]
 - Donghui Lin, Huanye Sheng and Toru Ishida, "Interorganizational Workflow Execution Based on Process Agents and ECA Rules," _IEICE Transactions on Information and Systems_, E90-D(9), pp.1335-1342, Sep. 2007. [[PDF](./files/IEICE2007.pdf)][[DOI](https://doi.org/10.1093/ietisy/e90-d.9.1335)]
 
-## Journal Papers in Japanese
+### Journal Papers in Japanese
 - Donghui Lin, Toru Ishida, Yohei Murakami, Masayuki Otani, and Takao Nakaguchi, "Multi-Language Agricultural Support with the Language Grid," _IEICE Transactions on Information and Systems_, J100-B(9), pp.714-721, 2017. (IEICE 100 Anniversary Invited Paper, in Japanese) [[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
 - Toru Ishida, Yohei Murakami, Rieko Inaba, Donghui Lin, and Masahiro Tanaka, "The Language Grid: Service-Oriented Multi-Language Infrastructure," _IEICE Transactions on Information and Systems_, 95-D(1), pp.2-10, 2012. (Invited Paper, in Japanese) [[PDF](./files/j95-d_1_2.pdf)]
 
-## International Conference Papers
+### International Conference Papers
 - Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," _The 17th IEEE International Conference on Services Computing (IEEE SCC 2020)_, Beijing, China, October, 2020.
 - Donghui Lin, Masayuki Otani, Ryosuke Okuno, and Toru Ishida, "Designing Multilingual Interactive Agents using Small Dialogue Corpora," _The 12th International Conference on Language Resources and Evaluation (LREC 2020)_, pp.662-667, May, 2020. [[PDF](https://www.aclweb.org/anthology/2020.lrec-1.83.pdf)]
 - Jiapeng Dai, Donghui Lin, and Toru Ishida, "A Two-phase Method of QoS Prediction for Situated Service Recommendation," _The 15th IEEE International Conference on Services Computing (IEEE SCC 2018)_, pp.137-144, San Francisco, USA, July, 2018. [[PDF](./files/SCC2018_Dai.pdf)][[DOI](https://doi.org/10.1109/SCC.2018.00025)]
@@ -134,6 +133,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Masahiro Tanaka, Yohei Murakami, Donghui Lin and Toru Ishida, "Service Supervision for Service-oriented Collective Intelligence," _7th IEEE International Conference on Services Computing (IEEE SCC 2010)_, pp.154-161, July, 2010. [[PDF](./files/SCC2010_Tanaka.pdf)][[DOI](https://doi.org/10.1109/SCC.2010.64)]
 - Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," _The 7th International Conference on Language Resources and Evaluation (LREC 2010)_, pp.500-506, May, 2010. [[PDF](http://www.lrec-conf.org/proceedings/lrec2010/pdf/317_Paper.pdf)]
 
-# Awards
+## Awards
 
 * [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)

@@ -14,7 +14,7 @@ layout: default
    **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820 &emsp; **Email**: lindh at i.kyoto-u.ac.jp
    <br>
    <br>
-   **Academic Database Links**:   
+   **Researcher Database Links**:   
    [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
 
 # Biography

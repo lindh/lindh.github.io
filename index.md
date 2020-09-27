@@ -11,12 +11,11 @@ layout: default
    <br>
    **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan
    <br>
-   **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820
-   <br>
-   **Email**: lindh at i.kyoto-u.ac.jp
+   **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820 &emsp; **Email**: lindh at i.kyoto-u.ac.jp
    <br>
    <br>
-   **Academic Database Links**: [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. Activity DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en)
+   **Academic Database Links**:   
+   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. Activity DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en)
 
 # Biography
 

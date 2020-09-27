@@ -131,8 +131,8 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Masahiro Tanaka, Yohei Murakami and Donghui Lin, "A Service Execution Control Framework for Policy Enforcement," _8th International Conference on Service Oriented Computing (ICSOC 2010)_, pp.108-121, December, 2010. [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-642-17358-5_8.pdf)][[DOI](https://doi.org/10.1007/978-3-642-17358-5_8)]
 - Donghui Lin, Yohei Murakami, and Masahiro Tanaka, "Dynamic Service Invocation Control in Service Composition Environments," _7th IEEE International Conference on Services Computing (IEEE SCC 2010)_, pp.25-32, July, 2010. [[PDF](./files/SCC2010_Lin.pdf)][[DOI](https://doi.org/10.1109/SCC.2010.65)]
 - Masahiro Tanaka, Yohei Murakami, Donghui Lin and Toru Ishida, "Service Supervision for Service-oriented Collective Intelligence," _7th IEEE International Conference on Services Computing (IEEE SCC 2010)_, pp.154-161, July, 2010. [[PDF](./files/SCC2010_Tanaka.pdf)][[DOI](https://doi.org/10.1109/SCC.2010.64)]
-- Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," The 7th International Conference on Language Resources and Evaluation (LREC 2010), pp.500-506, May, 2010. [[PDF](http://www.lrec-conf.org/proceedings/lrec2010/pdf/317_Paper.pdf)]
+- Donghui Lin, Yoshiaki Murakami, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "Composing Human and Machine Translation Services: Language Grid for Improving Localization Processes," _The 7th International Conference on Language Resources and Evaluation (LREC 2010)_, pp.500-506, May, 2010. [[PDF](http://www.lrec-conf.org/proceedings/lrec2010/pdf/317_Paper.pdf)]
 
 # Awards
 
-* [The Achievement Award of Year 2012, Institute of Electronics, Information and Communication Engineers (IEICE)](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)
+* [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)

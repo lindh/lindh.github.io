@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# Supervised Students
+## Supervised Students
 The students are with Department of Social Informatics, Kyoto University, if not specified otherwise.
 
 (Last updated: Sep. 2020)
 
-## Ph.D. Students
+### Ph.D. Students
 - Huichen Chou (Ongoing, enrolled in Apr. 2019)
 - Shiyao Ding (Ongoing, enrolled in Oct. 2019)
 - [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/) (Mar. 2020)
   - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://doi.org/10.14989/doctor.k22579)
 
-## Master Students
+### Master Students
 - Linhao Fu (Ongoing)
 - Bowen Wei (Ongoing)
 - Nanto Okawa (Ongoing)

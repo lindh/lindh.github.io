@@ -1,14 +1,14 @@
-# Complete Publication List
+## Complete Publication List
 [Books](#books) &emsp; [Book Chapters](#book-chapters) &emsp; [International Journal Papers](#international-journal-papers) &emsp; [Journal Papers in Japanese](#journal-papers-in-japanese) &emsp; [International Conference Papers](#international-conference-papers)
 
 (Last updated: Sep. 2020)
 
-## Books
+### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
 - Yohei Murakami, Donghui Lin, Toru Ishida, Eds., _Services Computing for Language Resources_. Springer, 2018. ISBN 978-981-10-7793-7. [[DOI](https://doi.org/10.1007/978-981-10-7793-7)]
 - Yohei Murakami and Donghui Lin, Eds., _Worldwide Language Service Infrastructure_. Lecture Notes in Artificial Intelligence, 9442, Springer, 2016. ISBN 978-3-319-31467-9. [[DOI](https://doi.org/10.1007/978-3-319-31468-6)]
 
-## Book Chapters
+### Book Chapters
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds, pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
@@ -29,7 +29,7 @@
 - Toru Ishida, Yohei Murakami, Donghui Lin, "The Language Grid: Service-Oriented Approach to Sharing Language Resources," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.3-17, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_1)]
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
-## International Journal Papers
+### International Journal Papers
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[PDF](./files/IEEE_TSMC_2020.pdf)][[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]
 - Donghui Lin, Yohei Murakami, and Toru Ishida, "Towards Language Service Creation and Customization for Low-Resource Languages," _Information_, 11(2), 67, 2020. [[PDF](./files/information-11-00067-v2.pdf)][[DOI](https://doi.org/10.3390/info11020067)]
 - Mondheera Pituxcoosuvarn, Takao Nakaguchi, Donghui Lin and Toru Ishida, "Privacy-Aware Best-Balanced Multilingual Communication," _IEICE Transactions on Information and Systems_, E103-D(6), pp.1288-1296, 2020. [[PDF](./files/e103-d_6_1288.pdf)][[DOI](https://doi.org/10.1587/transinf.2019KBP0008)]
@@ -46,7 +46,7 @@
 - Yichuan Jiang, Jing Hu and Donghui Lin, "Decision Making of Networked Multiagent Systems for Interaction Structures," _IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans_, 41(6), pp.1107-1121, 2011. [[PDF](./files/IEEESMCA2011_Jiang.pdf)][[DOI](https://doi.org/10.1109/TSMCA.2011.2114343)]
 - Donghui Lin, Huanye Sheng and Toru Ishida, "Interorganizational Workflow Execution Based on Process Agents and ECA Rules," _IEICE Transactions on Information and Systems_, E90-D(9), pp.1335-1342, Sep. 2007. [[PDF](./files/IEICE2007.pdf)][[DOI](https://doi.org/10.1093/ietisy/e90-d.9.1335)]
 
-## Journal Papers in Japanese
+### Journal Papers in Japanese
 - 中口孝雄，村上陽平，林冬惠，石田亨. サービス基盤の連邦制運営のための情報共有・実行制御アーキテクチャ, _電子情報通信学会D_, Vol.J101-D, No.1, pp.193-201, 2018. [[DOI](https://doi.org/10.14923/transinfj.2017JDP7011)]
 - 林冬惠, 石田亨, 村上陽平, 大谷雅之, 中口孝雄. 言語グリッドを用いた多言語農業支援, _電子情報通信学会論文誌B_, Vol.J100-B, No.9, pp.714-721, 2017.（100周年記念招待論文）[[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
 - 後藤真介，石田亨，林冬惠. 繰り返しおよび並列プロセスからなるクラウドソーシングワークフローの最適化, _電子情報通信学会論文誌D_, Vol.J99-D, No.11, pp.1094-1101, 2016. [[DOI](https://doi.org/10.14923/transinfj.2016JDP7031)]
@@ -56,7 +56,7 @@
 - 山口卓郎，菱山玲子，北川大輔，中島悠，稲葉 利江子，林冬惠. 機械翻訳サービスと編集サービスの相互連携における翻訳品質と編集者適応，_情報処理学会論文誌_，Vol.55, No.4, pp.1303-1315, 2014．
 - 石田亨，村上陽平，稲葉利江子，林冬惠，田仲正弘. 言語グリッド：サービス指向の多言語基盤，_電子情報通信学会論文誌D_, Vol.J95-D, No.1, pp.2-10, 2012. (招待論文)[[PDF](./files/j95-d_1_2.pdf)]
 
-## International Conference Papers
+### International Conference Papers
 - Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," _The 17th IEEE International Conference on Services Computing (IEEE SCC 2020)_, Beijing, China, October, 2020.
 - Mondheera Pituxcoosuvarn, Yohei Murakami, Donghui Lin, Toru Ishida, "Effect of Cultural Misunderstanding Warning in MT-Mediated Communication," _26th International Conference on Collaboration Technologies and Social Computing (CollabTech 2020)_, pp.112-127, Tartu, Estonia, September, 2020. [[DOI](https://doi.org/10.1007/978-3-030-58157-2_8)]
 - Huichen Chou, Donghui Lin, Toru Ishida, Naomi Yamashita, "Understanding Open Collaboration of Wikipedia Good Articles," _The 22nd HCI International Conference (HCII 2020)_, HCI(15), pp.29-43, Copenhagen, Denmark, July, 2020. [[DOI](https://doi.org/10.1007/978-3-030-49913-6_32)]

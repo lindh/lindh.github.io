@@ -52,7 +52,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **[Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/)**, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-## Academic Services
+## Professional Activity
 
 ### International Conferences and Workshops
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee

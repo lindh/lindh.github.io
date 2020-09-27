@@ -20,3 +20,6 @@ title: Donghui Lin (林冬惠), Ph.D, Associate Professor
 description: Donghui Lin's Homepage
 
 google_analytics: UA-179063573-1
+
+plugins:
+  - jekyll-sitemap

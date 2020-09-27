@@ -1,4 +1,4 @@
-# Publications
+# Complete Publication List
 [Books](#books) &emsp; [Book Chapters](#book-chapters) &emsp; [International Journal Papers](#international-journal-papers) &emsp; [Journal Papers in Japanese](#journal-papers-in-japanese) &emsp; [International Conference Papers](#international-conference-papers)
 
 (Last updated: Sep. 2020)

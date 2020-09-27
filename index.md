@@ -53,7 +53,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **[The Language Grid](http://langrid.org)**, **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
 ## Selected Publications 
-[The complete publication list is available here](./publication.html)(last updated: September 2020).
+[The complete publication list is available here ](./publication.html)(last updated: September 2020).
 
 ### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
@@ -121,13 +121,17 @@ My research aims at generating advanced technologies for Internet-based collabor
 - IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
 - International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
 - International Conference on Culture and Computing 2013, 2015, 2017, Program Co-Chair
-- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020 Program Committee
+- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
 - IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
 - International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2020, Program Committee
+- IEEE International Conference on Service-Oriented Computing and Applications (SOCA), 2017, Program Committee
+- IEEE International Conference on Smart Data Services (SMDS), 2020, Program Committee
+- IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee
-- International Conference on Culture and Computing 2011, Organization Co-Chair
+- International Conference on Culture and Computing, 2011, Organization Co-Chair
+- International Conference on Culture and Computing, 2020-2021, Board Member
 - International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 

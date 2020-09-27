@@ -1,4 +1,7 @@
 # Publications
+[Books](#books) &emsp; [Book Chapters](#book-chapters) &emsp; [International Journal Papers](#international-journal-papers) &emsp; [Journal Papers in Japanese](#journal-papers-in-japanese) &emsp; [International Conference Papers](#international-conference-papers)
+
+(Last updated: Sep. 2020)
 
 ## Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]

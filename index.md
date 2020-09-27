@@ -117,26 +117,30 @@ My research aims at generating advanced technologies for Internet-based collabor
 ## Professional Activity
 
 ### International Conferences and Workshops
-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
-- IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-Current, Program Committee
+- IEEE International Conference on Services Computing (SCC), 2013-Current, Program Committee
 - International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
 - International Conference on Culture and Computing 2013, 2015, 2017, Program Co-Chair
-- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
+- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020-Current, Program Committee
 - IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
 - IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
 - International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2020, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-Current, Program Committee
 - IEEE International Conference on Service-Oriented Computing and Applications (SOCA), 2017, Program Committee
-- IEEE International Conference on Smart Data Services (SMDS), 2020, Program Committee
-- IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
-- The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee
+- IEEE International Conference on Smart Data Services (SMDS), 2020-Current, Program Committee
+- IEEE International Conference on e-Business Engineering (ICEBE), 2019-Current, Program Committee
+- The Language Resources and Evaluation Conference (LREC), 2016-Current, Scientific Committee
 - International Conference on Culture and Computing, 2011, Organization Co-Chair
-- International Conference on Culture and Computing, 2020-2021, Board Member
+- International Conference on Culture and Computing, 2020-Current, Board Member
 - International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013,2015,2016 Workshop Co-Chair
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 
 ### Review Service for Journals
 - IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
+
+### Associations
+- IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
+- NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors
 
 ## Awards
 

@@ -7,7 +7,7 @@ layout: default
    [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
    <br>
    <br>
-   **Office**: Room 107, Research Building No. 12, Main Campus, Kyoto University ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
+   **Office**: Room 107, Research Building No. 12, Main Campus, Kyoto University ([Access Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
    <br>
    **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan
    <br>
@@ -15,7 +15,7 @@ layout: default
    <br>
    <br>
    **Academic Database Links**:   
-   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto Univ. Activity DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en)
+   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto University Activity DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
 
 # Biography
 

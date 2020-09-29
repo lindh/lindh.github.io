@@ -1,5 +1,5 @@
 ## Complete Publication List
-[Books](#books) &emsp; [Book Chapters](#book-chapters) &emsp; [Guest Editorial](#guest-editorial) &emsp; [International Journal Papers](#international-journal-papers) &emsp; [Journal Papers in Japanese](#journal-papers-in-japanese) &emsp; [International Conference Papers](#international-conference-papers)
+[Books](#books) &emsp; [Book Chapters](#book-chapters) &emsp; [Guest Editorials](#guest-editorial) &emsp; [International Journals](#international-journal-papers) &emsp; [Journals in Japanese](#journal-papers-in-japanese) &emsp; [International Conferences](#international-conference-papers)
 
 (Last updated: Sep. 2020)
 

@@ -30,7 +30,7 @@
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ### Guest Editorial
-- Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
+- Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### International Journal Papers
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[PDF](./files/IEEE_TSMC_2020.pdf)][[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]

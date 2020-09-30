@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<!-- site title -->
+	<title>International Workshop on Massively Multi-Agent Systems</title>
+
+	<!-- Stylesheets css comes here -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/nivo-lightbox.css">
+	<link rel="stylesheet" href="css/nivo_themes/default/default.css">
+	<link rel="stylesheet" href="css/templatemo-style.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+<!--
+Alpha Template
+http://www.templatemo.com/tm-465-alpha
+-->
+</head>
+<body data-spy="scroll" data-target=".navbar-collapse">
+
+<!-- preloader section -->
+<div class="preloader">
+	<div class="sk-spinner sk-spinner-rotating-plane"></div>
+</div>
+
+<!-- navigation section -->
+<nav class="navbar navbar-default navbar-fixed-top sticky-navigation" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="icon icon-bar"></span>
+				<span class="icon icon-bar"></span>
+				<span class="icon icon-bar"></span>
+			</button>
+			<a href="#"><img src="images/logo.png" class="img-responsive site-logo" alt="logo"></a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right main-navigation">
+				<!--li><a href="#home" class="smoothScroll">HOME</a></li-->
+				<li><a href="#about" class="smoothScroll">ABOUT</a></li>
+				<li><a href="#invited" class="smoothScroll">INVITED SESSION</a></li>
+				<li><a href="#call_for_papers" class="smoothScroll">CALL FOR PAPERS</a></li>
+				<li><a href="#committees" class="smoothScroll">COMMITTEES</a></li>
+				<li><a href="#venue" class="smoothScroll">VENUE</a></li>
+				<li><a href="#link" class="smoothScroll">LINKS</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!-- home section -->
+<section id="home" class="tm-home">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12 tm-icon-1">
+            	<div class="wow fadeIn tm-home-header shadow" data-wow-delay="0.3s"><font size="6"><b>International Workshop on Massively Multi-Agent Systems (MMAS2018)</b><br>in conjunction with IJCAI/ECAI/AAMAS/ICML 2018</font></div>
+				<div class="wow fadeIn tm-home-header shadow" data-wow-delay="0.5s" ><font size="5" color="#BCF5A9"><b>July 14th, 2018. Stockholmsmässan, Stockholm, Sweden.</b></font></div>
+				<a href="#call_for_papers" class="smoothScroll btn btn-default btn-lg">Call For Papers</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Home section -->
+<section id="about" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12 about-left-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3">Welcome to International Workshop on Massively Multi-Agent Systems (MMAS2018)</h1>
+				<p>Recent years have witnessed a rapid growth of the Internet of Things (IoT), where millions of physical devices with computing facilities are connected with each other in ad hoc ways, but are required to behave coherently. Massively multi-agent systems (MMAS) can be a major design paradigm or an implementation method for IoT. The aim of this workshop is to bring together participants concerned with massively multi-agent systems and applications, and to explore how multi-agent systems can be used for large-scale social design with big data analysis and high performance computing technologies.</p>
+				<p>MMAS 2018 will be held as a half-day workshop on July 14th, 2018 at Stockholmsmässan, Stockholm, Sweden. The workshop is co-located with <a href="http://ijcai-18.org/">IJCAI-ECAI 2018</a>, <a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>, and <a href="https://icml.cc/Conferences/2018">ICML 2018</a>.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Invited session section -->
+<section id="invited" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<!--div class="col-md-1 col-sm-1"></div-->
+			<div class="col-md-12 col-sm-12 about-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3 green">Invited Session </h1><hr>
+				<p>International Workshop on Massively Multi-Agent Systems (MMAS2018) will have an invited session on important timely issues. Here is a list of invited talks.</p>
+					<ul>
+					<li><font size="4" class="green"><strong>Distributed Speaking Objects: a Case for Massive Multiagent Systems</strong></font></li>
+					<p class="blog_text"><strong>Marco Lippi, Marco Mamei, Stefano Mariani, and Franco Zambonelli (University of Modena and Reggio Emilia, Italy)</strong></p>
+					<p class="blog_text">Abstract: Smart sensors and actuators, embedding learning and reasoning features and associated to everyday objects and locations, will soon densely populate our everyday environments. Being capable of understanding, reasoning, and reporting, about what is happening (for sensors) and about what they can make possibly happen (for actuators), these "speaking objects" will thus be assimilable to autonomous situated agents. Accordingly, populations of speaking objects will define dense and massive multiagent systems, devoted to monitor and control our environments, let them be homes, industries or, in the large-scale, whole cities. In this context, the necessary coordination among speaking objects will be likely to become associated with the capability of argumenting about situations and about the current "state of the affairs", triggering and directing proper distributed "conversations", and eventually collectively reach future desirable state of the affairs. In this article, we detail the speaking object scenario, overview the key enabling technologies, and eventually analyze the key challenges for engineering large-scale collectives of speaking objects and their conversations.
+					</p>
+					</ul>
+
+					<ul>
+					<li><font size="4" class="green"><strong>Multiagent Social Simulation for Social Service Design</strong></font></li>
+					<p class="blog_text"><strong>Itsuki Noda (National Institute of Advanced Industrial Science and Technology, Japan)</strong></p>
+					<p class="blog_text">Abstract: Multiagent Social Simulation (MASS) can be a powerful tool to design social systems and services. Because of progress of computational power and social big data, we can apply MASS to real applications on social systems like urban traffic and disaster response. I will show several cases of MASS application and discuss about the further possibility and issues on this emerging domain.
+					</p>
+					</ul>
+
+					<ul>
+					<li><font size="4" class="green"><strong>Injecting (Micro)Intelligence in the IoT: Logic-based Approaches for (M)MAS</strong></font></li>
+					<p class="blog_text"><strong>Andrea Omicini, Roberta Calegari (the University of Bologna, Italy)</strong></p>
+					<p class="blog_text">Abstract: Pervasiveness of ICT resources along with the promise of ubiquitous intelligence is pushing hard both our demand and our fears of AI: demand mandates for the ability to inject (micro) intelligence ubiquitously, fears compel the behaviour of intelligent systems to be observable, explainable, and accountable. Whereas the first wave of the new "AI Era" was mostly heralded by non-symbolic approaches, features like explainability are better provided by symbolic techniques. In this talk we focus on logic-based approaches, and discuss their potential in pervasive scenarios like the IoT and open (M)MAS along with our latest results in the field.
+					</p>
+					</ul>
+					<br>
+					<p class="blog_text">More talks are to be announced.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- Call for Papers section -->
+<section id="call_for_papers" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<!--div class="col-md-1 col-sm-1"></div-->
+			<div class="col-md-12 col-sm-12 about-left-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3 green">Call for Papers</h1>
+				<p><font size ="5"color ="orange"> Important Dates</font></p><hr>
+					<table>
+						<tbody>
+						<tr>
+						<td width=300><strong><font size="3">Submission deadline</font></strong></td>
+						<td><font size="3">: <strike>May 14th, 2018</strike></font>   <font size="3" color="red">May 21st, 2018 (extended)</font></td>
+					        </tr>
+						<tr>
+						<td><strong><font size="3">Author notification</font></strong></td>
+						<td><font size="3">:  May 30th, 2018</font></td>
+					        </tr>
+						<tr>
+						<td><strong><font size="3">Camera ready due by Authors</font></td>
+						<td><font size="3">:  June 15th, 2018</font></td>
+						</tr>
+						<tr>
+						<td><strong><font size="3">IJCAI/ECAI/AAMAS/ICML early registration</font></td>
+						<td><font size="3">:  from April 16th to May 31st, 2018</font></td>
+						</tr>
+						<tr>
+						<td><strong><font size="3">IJCAI/ECAI/AAMAS/ICML late registration</font></td>
+						<td><font size="3">:  from June 1st to June 25th, 2018</font></td>
+						</tr>
+						<tr>
+						<td><strong><font size="3">IJCAI/ECAI/AAMAS/ICML on-site registration</font></td>
+						<td><font size="3">:  from June 26th, 2018</font></td>
+						</tr>
+						</tbody>
+					</table>
+					<br>
+
+			    <ul>
+					<li><font size="4" class="green"><strong>Topics of Interest:</strong></font></li>
+				<p class="blog_text">We would prefer not to rigorously limit topics under the general category of the workshop. Nonetheless, some candidate topics are listed below:<br /><p>
+				<ul>
+				    <li><font size="3">Massively multi-agent infrastructure</font></li>
+				    <li><font size="3">Massively multi-sensor systems</font></li>
+				    <li><font size="3">Design and analysis of massively multi-agent systems</font></li>
+				    <li><font size="3">Large-scale participatory technologies</font></li>
+				    <li><font size="3">Massively multi-agent systems and social computing</font></li>
+				    <li><font size="3">Application of massively multi-agent systems</font></li>
+				    <li><font size="3">Massively multi-agent simulation</font></li>
+				    <li><font size="3">Massively multi-agent learning</font></li>
+				    <li><font size="3">Multi-agent systems for Internet of Things</font></li>
+				    <li><font size="3">Crowdsourcing and multi-agent systems</font></li>
+				</ul><br />
+				<li><font size="4" class="green"><strong>Paper Submission:</strong></font></li>
+				<p class="blog_text">
+					Paper submissions for MMAS 2018 will be handled by the easychair system. Before submitting your paper please ensure you have read the Instructions for Authors and that your paper uses the prescribed style files. To submit your work, please use the submission page at the following address <a href="https://easychair.org/conferences/?conf=mmas2018">https://easychair.org/conferences/?conf=mmas2018</a> .</p>
+				<li><font size="4" class="green"><strong>Instruction for authors:</strong></font></li>
+				<p class="blog_text">
+					Papers should be submitted in English with a maximum length of 15 pages and 2 extra pages for references. <br><br>
+					Submission Format: All submissions must be in PDF format and must follow the LNCS/LNAI style guidelines which can be found at <a href="http://www.springer.de/comp/lncs/authors.html">http://www.springer.de/comp/lncs/authors.html</a><br><br>
+					Submission and reviewing will be managed online by the easychair system. The only accepted format for submitted papers is in Adobe's PDF. Submissions must be uploaded on the easychair system (<a href="https://easychair.org/conferences/?conf=mmas2018">https://easychair.org/conferences/?conf=mmas2018</a>) by the submission deadlines; submissions after that time will not be reviewed. To minimise network congestion, we request authors to upload their submissions as early as possible.<br><br>
+
+					DUAL SUBMISSION POLICY: Papers being submitted to other conferences or workshops can be submitted in parallel to MMAS 2018, on condition that submissions at other conferences will be withdrawn if the paper is accepted for MMAS 2018. Authors must clearly indicate on the title page the other conferences or workshops to which the paper is being submitted and also indicate that they will withdraw these other submissions if the paper is accepted for MMAS 2018.<br><br>
+
+					For each accepted paper, at least one author must attend the workshop and present the paper. The registration information is available at <a href="http://ijcai-18.org/">IJCAI-ECAI 2018</a>, <a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>, and <a href="https://icml.cc/Conferences/2018">ICML 2018</a>.
+
+					The selected MMAS 2018 accepted papers will be published as a volume of Springer LNCS/LNAI (in negotiation with Springer).<br />
+				</p>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Program Committee section -->
+<section id="committees" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<!--div class="col-md-1 col-sm-1"></div-->
+			<div class="col-md-12 col-sm-12 about-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3 green">Organizers</h1>
+					<ul>
+					    <li><font size="3"><a href="http://www.ai.soc.i.kyoto-u.ac.jp/~lindh/">Donghui Lin (Kyoto University, Japan)</a>, primary contact</font></li>
+					    <li><font size="3"><a href="http://www.ai.soc.i.kyoto-u.ac.jp/~ishida/">Toru Ishida (Kyoto University, Japan)</a>, primary contact</font></li>
+					    <li><font size="3"><a href="http://www.agentgroup.unimore.it/Zambonelli/">Franco Zambonelli (University of Modena and Reggio Emilia, Italy)</a></font></li>
+					    <li><font size="3"><a href="https://www.researchgate.net/profile/Alexis_Drogoul">Alexis Drogoul (UMI UMMISCO 209, IRD & UPMC, France)</a></font></li>
+					    <li><font size="3"><a href="https://www.csc2.ncsu.edu/faculty/mpsingh/">Munindar P. Singh (North Carolina State University, USA)</a></font></li>
+					    <li><font size="3"><a href="http://harmo-lab.jp/">Tomohisa Yamashita (Hokkaido University, Japan)</a></font></li>
+					    <li><font size="3"><a href="https://staff.aist.go.jp/i.noda/index.en.html">Itsuki Noda (National Institute of Advanced Industrial Science and Technology, Japan)</a></font></li>
+					</ul>
+				<hr>
+				<h1 class="tm-about-h3 green">Program Committee</h1>
+					<ul>
+					    <li><font size="3">Jake Beal (BBN Technologies, USA) </font></li>
+					    <li><font size="3">Peter Lewis (Aston University, UK)</font></li>
+					    <li><font size="3">Andrea Omicini (Universitò di Bologna) </font></li>
+					    <li><font size="3">Patrick Taillandier (INRA, Toulouse, France) </font></li>
+					    <li><font size="3">Hiromitsu Hattori (Ritsumeikan University, Japan)</font></li>
+					    <li><font size="3">Toshiharu Sugawara (Waseda University, Japan)</font></li>
+					    <li><font size="3">Yohei Murakami (Ritsumeikan University, Japan)</font></li>
+					    <li><font size="3">Norman Sadeh (Carnegie Mellon University, USA)</font></li>
+					    <li><font size="3">Amit K. Chopra (Lancaster University, UK)</font></li>
+					    <li><font size="3">Donghui Lin (Kyoto University, Japan)</font></li>
+					    <li><font size="3">Toru Ishida (Kyoto University, Japan)</font></li>
+					    <li><font size="3">Franco Zambonelli (University of Modena and Reggio Emilia, Italy)</font></li>
+					    <li><font size="3">Alexis Drogoul (UMI UMMISCO 209, IRD & UPMC, France)</font></li>
+					    <li><font size="3">Munindar P. Singh (North Carolina State University, USA)</font></li>
+					    <li><font size="3">Tomohisa Yamashita (Hokkaido University, Japan)</font></li>
+					    <li><font size="3">Itsuki Noda (National Institute of Advanced Industrial Science and Technology, Japan)</font></li>
+					</ul>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Venue section -->
+<section id="venue" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<!--div class="col-md-1 col-sm-1"></div-->
+			<div class="col-md-12 col-sm-12 about-left-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3 green">Venue </h1><hr>
+					<ul>
+						<li><font size="4" class="green"><b>Venue</b></font></li>
+	                		<p class="blog_text">Stockholmsmässan, Stockholm, Sweden<br /><p>
+                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2038.3444310049615!2d18.013123316070175!3d59.277100981640594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f770d009c0eff%3A0xe899f77f8d0edc88!2sStockholmsm%C3%A4ssan!5e0!3m2!1sja!2sjp!4v1520326047502" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<li><font size="4" class="green"><b>Access:</b></font></li>
+							<p>Please find the traffic access at Stockholmsmässan <a href="http://www.stockholmsmassan.se/?sc_lang=en">official website</a>.</p>
+
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Links section -->
+<section id="link" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<!--div class="col-md-1 col-sm-1"></div-->
+			<div class="col-md-12 col-sm-12 about-des wow fadeInUp" data-wow-delay="0.3s">
+				<h1 class="tm-about-h3 green">Links </h1><hr>
+					<ul><font size="3">
+					<li><a href="http://www.ijcai-18.org">IJCAI-ECAI 2018</a></li>
+					<li><a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a></li>
+					<li><a href="https://icml.cc/Conferences/2018">ICML 2018</a></li>
+					</font>
+				</ul>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- footer section -->
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12">
+				<p>Copyright &copy; MMAS 2018</p>
+				<hr>
+				<!--ul class="social-icon">
+					<li class="wow bounceIn" data-wow-delay="0.3s"><a href="#" class="fa fa-facebook"></a></li>
+					<li class="wow bounceIn" data-wow-delay="0.6s"><a href="#" class="fa fa-twitter"></a></li>
+					<li class="wow bounceIn" data-wow-delay="0.9s"><a href="#" class="fa fa-instagram"></a></li>
+					<li class="wow bounceIn" data-wow-delay="1s"><a href="#" class="fa fa-dribbble"></a></li>
+				</ul-->
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!-- javascript js comes here -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/smoothscroll.js"></script>
+<script src="js/jquery.nav.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/imagesloaded.min.js"></script>
+<script src="js/nivo-lightbox.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>

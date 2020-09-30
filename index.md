@@ -122,7 +122,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - The Language Resources and Evaluation Conference (LREC), 2016-Current, Scientific Committee
 - IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
 - IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
-- International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018, Organizer
+- [International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018](https://lindh.github.io/mmas2018/index.html), Organizer
 - International Conference on Cloud Computing and Services Science (CLOSER), 2011-2018, Program Committee
 - IEEE International Conference on Service-Oriented Computing and Applications (SOCA), 2017, Program Committee
 - International Workshop on Worldwide Language Service Infrastructure (WLSI), 2013-2016 Workshop Co-Chair

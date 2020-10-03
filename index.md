@@ -46,9 +46,9 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **Intercultural Collaboration**: analysis of machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Ongoing Research Projects
-- [Realizing IoT Services Based on Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20K21833/), **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
-- [Realizing Situated Multi-Language Communication Environments Based on Service Composition](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03341/), **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
-- [Supporting Intercultural Collaboration with Multiagent Systems](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00759/), **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
+- Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
+- Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
+- Supporting Intercultural Collaboration with Multiagent Systems, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
 - [The Language Grid](http://langrid.org), **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
 ## Selected Publications

@@ -98,7 +98,10 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Donghui Lin, Toru Ishida, Yohei Murakami, Masayuki Otani, and Takao Nakaguchi, "Multi-Language Agricultural Support with the Language Grid," _IEICE Transactions on Information and Systems_, J100-B(9), pp.714-721, 2017. (IEICE 100 Anniversary Invited Paper, in Japanese) [[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
 
 ### International Conference Papers
-- Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," _The 17th IEEE International Conference on Services Computing (IEEE SCC 2020)_, Beijing, China, October, 2020.
+- Huichen Chou, Donghui Lin, Takao Nakaguchi, and Toru Ishida, “A Blockchain-based Collaboration Framework for Teaching Material Creation,” _The 23nd International Conference on Human-Computer Interaction (HCII 2021)_, Washington DC, USA, July, 2021.
+- Shiyao Ding and Donghui Lin, “A Coalitional Markov Decision Process Model for Dynamic Coalition Formation among Agents,” _The 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2020)_, Melbourne, Australia, December 2020.
+- Bowen Wei, Donghui Lin, and Shiyao Ding. “A Constraint-based Approach to Edge Resource Allocation for Complex Event Processing,” _The 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2020)_, Melbourne, Australia, December 2020.
+- Shiyao Ding and Donghui Lin, "Dynamic Task Allocation for Cost-Efficient Edge Cloud Computing," _The 17th IEEE International Conference on Services Computing (IEEE SCC 2020)_, pp.218-225, Beijing, China, October, 2020. [[DOI]](https://doi.org/10.1109/SCC49832.2020.00036)
 - Mondheera Pituxcoosuvarn, Yohei Murakami, Donghui Lin, Toru Ishida, "Effect of Cultural Misunderstanding Warning in MT-Mediated Communication," _26th International Conference on Collaboration Technologies and Social Computing (CollabTech 2020)_, pp.112-127, Tartu, Estonia, September, 2020. [[DOI](https://doi.org/10.1007/978-3-030-58157-2_8)]
 - Huichen Chou, Donghui Lin, Toru Ishida, Naomi Yamashita, "Understanding Open Collaboration of Wikipedia Good Articles," _The 22nd HCI International Conference (HCII 2020)_, HCI(15), pp.29-43, Copenhagen, Denmark, July, 2020. [[DOI](https://doi.org/10.1007/978-3-030-49576-3_3)]
 - Mondheera Pituxcoosuvarn, Takao Nakaguchi, Donghui Lin, Toru Ishida, "Secure Agents for Supporting Best-Balanced Multilingual Communication," _The 22nd HCI International Conference (HCII 2020)_, HCI (13), pp.376-388, Copenhagen, Denmark, July, 2020. [[DOI](https://doi.org/10.1007/978-3-030-49913-6_32)]
@@ -129,7 +132,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - IEEE International Conference on Services Computing (SCC), 2013-2020, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2021, Board Member
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2020, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2021, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee

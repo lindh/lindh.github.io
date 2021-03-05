@@ -11,7 +11,7 @@ The students are with Department of Social Informatics, Kyoto University, if not
 - Huichen Chou (Ongoing, enrolled in Apr. 2019)
 - Shiyao Ding (Ongoing, enrolled in Oct. 2019)
 - [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)
-  - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://doi.org/10.14989/doctor.k22579)(Mar. 2020)
+  - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/253415) (Mar. 2020)
 
 ### Master Students
 - Linhao Fu (Ongoing, enrolled in Oct. 2019)

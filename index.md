@@ -3,7 +3,8 @@ layout: default
 ---
 
 <img align="left" src="./images/lin.jpg"/>
-
+   [Global Information Network Laboratory (Takayuki Ito Laboratory)](http://www.agent.soc.i.kyoto-u.ac.jp/)
+   <br>
    [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
    <br>
    <br>
@@ -41,11 +42,12 @@ My research aims at generating advanced technologies for Internet-based collabor
 
 ### Research Interests
 - **Services Computing (Internet of Services)**: service-oriented architecture for collaborative system, QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure
-- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, situated interactive agents in IoT environments, task allocation and resource allocation in edge cloud computing
-- **Multiagent Systems**: multiagent coordination for Internet of Services and Internet of Things, multiagent simulation for collaborative system design, multiagent reinforcement learning
+- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, self-organizing IoT service network, task allocation and resource allocation in edge cloud computing
+- **Multiagent Systems**: constraint optimization, multiagent simulation for collaborative system design, multiagent reinforcement learning, interactive agents
 - **Intercultural Collaboration**: analysis of machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
-### Ongoing Research Projects
+### Research Projects
+- Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
 - Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
 - Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
 - Supporting Intercultural Collaboration with Multiagent Systems, **Co-Investigator**, JSPS Grant-in-Aid for Scientific Research (A) (17H00759), Apr. 2017-Mar. 2021
@@ -95,7 +97,13 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Donghui Lin, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "QoS Analysis for Service Composition by Human and Web Services," _IEICE Transactions on Information and Systems_, E97-D(4), pp.762-769, 2014. [[PDF](./files/IEICE201404_Lin.pdf)][[DOI](https://doi.org/10.1587/transinf.E97.D.762)]
 
 ### Journal Papers in Japanese
-- Donghui Lin, Toru Ishida, Yohei Murakami, Masayuki Otani, and Takao Nakaguchi, "Multi-Language Agricultural Support with the Language Grid," _IEICE Transactions on Information and Systems_, J100-B(9), pp.714-721, 2017. (IEICE 100 Anniversary Invited Paper, in Japanese) [[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
+- 中口孝雄，村上陽平，林冬惠，石田亨. サービス基盤の連邦制運営のための情報共有・実行制御アーキテクチャ, _電子情報通信学会論文誌D_, Vol.J101-D, No.1, pp.193-201, 2018. [[DOI](https://doi.org/10.14923/transinfj.2017JDP7011)]
+- 林冬惠, 石田亨, 村上陽平, 大谷雅之, 中口孝雄. 言語グリッドを用いた多言語農業支援, _電子情報通信学会論文誌B_, Vol.J100-B, No.9, pp.714-721, 2017.（100周年記念招待論文）[[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
+- 後藤真介，石田亨，林冬惠. 繰り返しおよび並列プロセスからなるクラウドソーシングワークフローの最適化, _電子情報通信学会論文誌D_, Vol.J99-D, No.11, pp.1094-1101, 2016. [[DOI](https://doi.org/10.14923/transinfj.2016JDP7031)]
+- 中口孝雄，村上陽平，林冬惠，石田亨. 高階関数を導入した階層的サービス合成記述, _電子情報通信学会論文誌B_, Vol.J99-B, No.10, pp.834-842, 2016. [[DOI](https://doi.org/10.14923/transcomj.2016IAP0016)]
+- 後藤真介，林冬惠，石田亨. クラウドソーシングによる翻訳評価の分析, _電子情報通信学会論文誌D_, Vol.J97-D, No.7, pp.1158-1165, 2014.
+- 村上陽平，林冬惠，石田亨，田仲正弘. 多言語サービス基盤のための連邦アーキテクチャ，_電子情報通信学会論文誌D_，Vol.J97-D, No.6, pp.1094-1101, 2014．
+- 山口卓郎，菱山玲子，北川大輔，中島悠，稲葉利江子，林冬惠. 機械翻訳サービスと編集サービスの相互連携における翻訳品質と編集者適応，_情報処理学会論文誌_，Vol.55, No.4, pp.1303-1315, 2014．
 
 ### International Conference Papers
 - Huichen Chou, Donghui Lin, Takao Nakaguchi, and Toru Ishida, “A Blockchain-based Collaboration Framework for Teaching Material Creation,” _The 23nd International Conference on Human-Computer Interaction (HCII 2021)_, Washington DC, USA, July, 2021.

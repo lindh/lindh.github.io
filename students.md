@@ -5,17 +5,19 @@ layout: default
 ## Supervised Students
 The students are with Department of Social Informatics, Kyoto University, if not specified otherwise.
 
-(Last updated: Mar. 2021)
+(Last updated: Apr. 2021)
 
 ### Ph.D. Students
-- Huichen Chou (Ongoing, enrolled in Apr. 2019)
-- Shiyao Ding (Ongoing, enrolled in Oct. 2019)
+- Huichen Chou (Ongoing, D3)
+- Shiyao Ding (Ongoing, D2)
 - [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)
   - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/253415) (Mar. 2020)
 
 ### Master Students
-- Linhao Fu (Ongoing, enrolled in Oct. 2019)
-- Bowen Wei (Ongoing, enrolled in Oct. 2019)
+- Linhao Fu (Ongoing, M2)
+- Bowen Wei (Ongoing, M2)
+- Shunto Mizushima (Ongoing, M2, Co-supervised with Prof. Shigeo Matsubara)
+- Hui Jin (Ongoing, M1)
 - Nanto Okawa
   - Thesis: Realizing Situated Interactive Agents in IoT Environments (Feb. 2021)
 - Yuto Iwata (Co-supervised with Prof. Shigeo Matsubara)

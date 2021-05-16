@@ -7,6 +7,8 @@ sass:
 
 theme: jekyll-theme-primer
 
+markdown: kramdown
+
 github:
   private: false
   license:

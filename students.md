@@ -14,10 +14,12 @@ The students are with Department of Social Informatics, Kyoto University, if not
   - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/253415) (Mar. 2020)
 
 ### Master Students
-- Linhao Fu (Ongoing, M2)
-- Bowen Wei (Ongoing, M2)
 - Shunto Mizushima (Ongoing, M2, Co-supervised with Prof. Shigeo Matsubara)
 - Hui Jin (Ongoing, M1)
+- Linhao Fu
+  - Thesis: Multiagent-based P2P Energy Trading with Electric Vehicles (Aug. 2021)
+- Bowen Wei
+  - Thesis: Designing and Implementing Edge-based IoT Systems for Efficient Complex Event Processing (Aug. 2021)
 - Nanto Okawa
   - Thesis: Realizing Situated Interactive Agents in IoT Environments (Feb. 2021)
 - Yuto Iwata (Co-supervised with Prof. Shigeo Matsubara)

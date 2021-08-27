@@ -97,6 +97,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Donghui Lin, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "QoS Analysis for Service Composition by Human and Web Services," _IEICE Transactions on Information and Systems_, E97-D(4), pp.762-769, 2014. [[PDF](./files/IEICE201404_Lin.pdf)][[DOI](https://doi.org/10.1587/transinf.E97.D.762)]
 
 ### Journal Papers in Japanese
+- 大川楠人, 林冬惠, 村上陽平, 中口孝雄. 異種のIoTデバイスとWebサービスの相互運用のためのIoTサービス基盤, _電子情報通信学会論文誌D_, Vol.J105-D, No.01, 2022. (to appear)
 - 中口孝雄，村上陽平，林冬惠，石田亨. サービス基盤の連邦制運営のための情報共有・実行制御アーキテクチャ, _電子情報通信学会論文誌D_, Vol.J101-D, No.1, pp.193-201, 2018. [[DOI](https://doi.org/10.14923/transinfj.2017JDP7011)]
 - 林冬惠, 石田亨, 村上陽平, 大谷雅之, 中口孝雄. 言語グリッドを用いた多言語農業支援, _電子情報通信学会論文誌B_, Vol.J100-B, No.9, pp.714-721, 2017.（100周年記念招待論文）[[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
 - 後藤真介，石田亨，林冬惠. 繰り返しおよび並列プロセスからなるクラウドソーシングワークフローの最適化, _電子情報通信学会論文誌D_, Vol.J99-D, No.11, pp.1094-1101, 2016. [[DOI](https://doi.org/10.14923/transinfj.2016JDP7031)]

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Biography](#biography)
+
 <img align="left" src="./images/lin.jpg"/>
    [Global Information Network Laboratory](http://www.agent.soc.i.kyoto-u.ac.jp/)
    <br>

@@ -11,7 +11,7 @@ The students are with Department of Social Informatics, Kyoto University, if not
 - Huichen Chou (Ongoing, D3)
 - Shiyao Ding (Ongoing, D2)
 - [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)
-  - Thesis: [Improving Mutual Understanding in Machine Translation Mediated Communication](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/253415) (Mar. 2020)
+  - Thesis: Improving Mutual Understanding in Machine Translation Mediated Communication (Mar. 2020)
 
 ### Master Students
 - Shunto Mizushima (Ongoing, M2, Co-supervised with Prof. Shigeo Matsubara)

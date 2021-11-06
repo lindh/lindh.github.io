@@ -4,6 +4,8 @@ layout: default
 
 [Biography](#biography) &emsp; [Teaching](./teaching.html) &emsp; [Research](#research) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html)
 
+## Profile
+
 <img align="left" src="./images/lin.jpg"/>
    [Global Information Network Laboratory](http://www.agent.soc.i.kyoto-u.ac.jp/)
    <br>

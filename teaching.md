@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) &emsp; [CV (in Japanese)](./files/CV_ja.pdf)
+
 ## Teaching
 
 (Last updated: Oct. 2021)

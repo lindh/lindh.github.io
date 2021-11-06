@@ -41,10 +41,10 @@ layout: default
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities.
 
 ### Research Interests
-- **Services Computing (Internet of Services)**: service-oriented architecture for collaborative system, QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure
-- **Internet of Things (IoT)**: integrated architecture for Internet of Services and Things, self-organizing IoT service network, task allocation and resource allocation in edge cloud computing
+- **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing
+- **Internet of Things (IoT)**: IoT service infrastructure, self-organizing IoT service network, task allocation and resource allocation in IoT environments
 - **Multiagent Systems**: constraint optimization, multiagent simulation for collaborative system design, multiagent reinforcement learning, interactive agents
-- **Intercultural Collaboration**: analysis of machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
+- **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
 - Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024

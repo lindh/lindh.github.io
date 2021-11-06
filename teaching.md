@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Teaching
+
+(Last updated: Oct. 2021)
+
 ### Graduate School
 - Perspectives in Informatics 5 (Internet of Things)，英語，京都大学大学院情報学研究科，2021年度−
 - Information and Society, 英語，京都大学大学院情報学研究科，2018年度−

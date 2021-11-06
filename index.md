@@ -57,7 +57,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - [The Language Grid](http://langrid.org), **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
 ## Recent Publications
-[The complete publication list is available here ](./publication.html)(last updated: September 2020).
+[The complete publication list is available here ](./publication.html).
 
 ### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]

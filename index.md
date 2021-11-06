@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Biography](#biography)
+[Biography](#biography) &emsp; [Teaching](./teaching.html) &emsp; [Research](#research) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html)
 
 <img align="left" src="./images/lin.jpg"/>
    [Global Information Network Laboratory](http://www.agent.soc.i.kyoto-u.ac.jp/)
@@ -24,7 +24,7 @@ layout: default
 
 ### Employment
 - **Apr. 2018-Current:** Associate Professor
-  - Department of Social Informatics, Kyoto University ([List of supervised students](./students.html))
+  - Department of Social Informatics, Kyoto University
 - **Jan. 2012-Mar. 2018:** Assistant Professor
   - Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher

@@ -7,9 +7,9 @@ layout: default
 ## Profile
 
 <img align="left" src="./images/lin.jpg"/>
-   [Global Information Network Laboratory](http://www.agent.soc.i.kyoto-u.ac.jp/)
+   Global Information Network Laboratory
    <br>
-   [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en/)
+   Department of Social Informatics, Graduate School of Informatics, Kyoto University
    <br>
    <br>
    **Office**: Room 107, Research Building No. 12, Main Campus, Kyoto University ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))

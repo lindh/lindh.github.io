@@ -150,7 +150,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2021, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
-- The Language Resources and Evaluation Conference (LREC), 2016-2020, Scientific Committee
+- The Language Resources and Evaluation Conference (LREC), 2016-2022, Scientific Committee
 - IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
 - IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
 - [International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018](https://lindh.github.io/mmas2018/index.html), Organizer

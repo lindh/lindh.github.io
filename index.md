@@ -4,6 +4,8 @@ layout: default
 
 [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) &emsp; [CV (in Japanese)](./files/CV_ja.pdf)
 
+<br>
+
 <img align="left" src="./images/lin.jpg"/>
    Global Information Network Laboratory
    <br>

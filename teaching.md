@@ -26,5 +26,5 @@ layout: default
 
 ### Textbooks
 - Hajime Kita, Yumi Kitamura, Hirohisa Hioki, Hiroyuki Sakai, Donghui Lin. "The Practice of Basic Informatics 2021," pp.1-222, Kyoto University, 2021.
-- Hajime Kita, Yumi Kitamura, Hirohisa Hioki, Hiroyuki Sakai, Donghui Lin. "[The Practice of Basic Informatics 2020](http://hdl.handle.net/2433/262330)," pp.1-236, Kyoto University, 2020. (under the [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license)
-- Hajime Kita, Yumi Kitamura, Hirohisa Hioki, Hiroyuki Sakai, Donghui Lin. "[The Practice of Basic Informatics 2019](http://hdl.handle.net/2433/246166)," pp.1-196, Kyoto University, 2019. (under the [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license)
+- Hajime Kita, Yumi Kitamura, Hirohisa Hioki, Hiroyuki Sakai, Donghui Lin. "[The Practice of Basic Informatics 2020](http://hdl.handle.net/2433/262330)," pp.1-236, Kyoto University, 2020. ([CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license)
+- Hajime Kita, Yumi Kitamura, Hirohisa Hioki, Hiroyuki Sakai, Donghui Lin. "[The Practice of Basic Informatics 2019](http://hdl.handle.net/2433/246166)," pp.1-196, Kyoto University, 2019. ([CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license)

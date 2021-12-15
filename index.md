@@ -140,6 +140,12 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Mairidan Wushouer, Donghui Lin, Toru Ishida, Katsutoshi Hirayama, "Pivot-Based Bilingual Dictionary Extraction from Multiple Dictionary Resources," _13th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2014)_, pp.221-234, Gold Coast, QLD, Australia, December, 2014. [[DOI](https://doi.org/10.1007/978-3-319-13560-1_18)]
 -	Nguyen Cao Hong Ngoc, Donghui Lin, Takao Nakaguchi, Toru Ishida, "QoS-Aware Service Composition in Mobile Environments," _7th IEEE International Conference on Service-Oriented Computing and Applications (SOCA 2014)_, pp.97-104, Matsue, Japan, November, 2014. [[DOI](https://doi.org/10.1109/SOCA.2014.51)]
 
+## Awards
+- Best Student Paper Award, [The 5th IEEE International Conference on Agents (IEEE ICA 2021)](https://sites.google.com/view/ieeeica2021/program/awards?authuser=0)
+  - Authors: Shiyao Ding, Donghui Lin, and Xin Zhou
+  - Paper Title: Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing
+- [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)
+
 ## Professional Activity
 
 ### International Conferences and Workshops
@@ -168,9 +174,3 @@ My research aims at generating advanced technologies for Internet-based collabor
 - IEEE, IEICE, IPSJ, JSAI, Member
 - IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors
-
-## Awards
-- Best Student Paper Award, [The 5th IEEE International Conference on Agents (IEEE ICA 2021)](https://sites.google.com/view/ieeeica2021/program/awards?authuser=0)
-  - Authors: Shiyao Ding, Donghui Lin, and Xin Zhou
-  - Paper Title: Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing
-- [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)

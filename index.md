@@ -170,5 +170,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 
 ## Awards
 - Best Student Paper Award, [The 5th IEEE International Conference on Agents (IEEE ICA 2021)](https://sites.google.com/view/ieeeica2021/program/awards?authuser=0)
-  - Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing”
+  - Authors: Shiyao Ding, Donghui Lin, and Xin Zhou
+  - Paper Title: Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing
 - [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)

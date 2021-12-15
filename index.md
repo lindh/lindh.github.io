@@ -68,6 +68,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### International Journal Papers
+- Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), 2022.
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]
 - Donghui Lin, Yohei Murakami, and Toru Ishida, "Towards Language Service Creation and Customization for Low-Resource Languages," _Information_, 11(2), 67, 2020. [[PDF](./files/information-11-00067-v2.pdf)][[DOI](https://doi.org/10.3390/info11020067)]
 - Mondheera Pituxcoosuvarn, Takao Nakaguchi, Donghui Lin and Toru Ishida, "Privacy-Aware Best-Balanced Multilingual Communication," _IEICE Transactions on Information and Systems_, E103-D(6), pp.1288-1296, 2020. [[PDF](./files/e103-d_6_1288.pdf)][[DOI](https://doi.org/10.1587/transinf.2019KBP0008)]
@@ -110,7 +111,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Yohei Murakami, Donghui Lin, and Toru Ishida, "Service-Oriented Architecture for Interoperability of Multi-Language Services," in _Towards the Multilingual Semantic Web_, Paul Buitelaar and Philipp Cimiano, Eds., pp.313-328, Springer, 2014. [[DOI](https://doi.org/10.1007/978-3-662-43585-4_19)]
 
 ### International Conference Papers
-- Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing,” _The 5th IEEE International Conference on Agents (IEEE ICA 2021)_, Japan, December, 2021.
+- Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing,” _The 5th IEEE International Conference on Agents (IEEE ICA 2021)_, Japan, December, 2021. (Best Student Paper Award)
 - Huichen Chou, Donghui Lin, Takao Nakaguchi, and Toru Ishida, “A Blockchain-based Collaboration Framework for Teaching Material Creation,” _The 23rd International Conference on Human-Computer Interaction (HCII 2021)_, Washington DC, USA, July, 2021.
 - Huichen Chou, Rafik Hadfi, Donghui Lin, and Takayuki Ito, “Identifying Collaborative Editing Traits and Phases in Good Wikipedia Articles,“ _ACM Collective Intelligence Conference 2021 (ACM CI 2021)_, Copenhagen, Denmark, June, 2021.
 - Shiyao Ding and Donghui Lin, “A Coalitional Markov Decision Process Model for Dynamic Coalition Formation among Agents,” _The 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2020)_, Melbourne, Australia, December 2020.
@@ -168,5 +169,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors
 
 ## Awards
-
-* [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)
+- Best Student Paper Award, [The 5th IEEE International Conference on Agents (IEEE ICA 2021)](https://sites.google.com/view/ieeeica2021/program/awards?authuser=0)
+  - Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing”
+- [The Achievement Award of Year 2012, IEICE](https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2012/gyouseki_05e.html)

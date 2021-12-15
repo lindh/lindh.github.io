@@ -165,6 +165,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
 
 ### Associations
+- IEEE, IEICE, IPSJ, JSAI, Member
 - IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors
 

@@ -68,6 +68,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### International Journal Papers
+- Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), 2022.
 - Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), 2022.
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]
 - Donghui Lin, Yohei Murakami, and Toru Ishida, "Towards Language Service Creation and Customization for Low-Resource Languages," _Information_, 11(2), 67, 2020. [[PDF](./files/information-11-00067-v2.pdf)][[DOI](https://doi.org/10.3390/info11020067)]

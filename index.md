@@ -47,10 +47,11 @@ My research aims at generating advanced technologies for Internet-based collabor
 ### Research Interests
 - **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing
 - **Internet of Things (IoT)**: IoT service infrastructure, self-organizing IoT service network, task allocation and resource allocation in IoT environments
-- **Multiagent Systems**: constraint optimization, multiagent simulation for collaborative system design, multiagent reinforcement learning, interactive agents
+- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
+- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), 2021
 - Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
 - Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
 - Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
@@ -67,7 +68,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 ### Guest Editorial
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
-### International Journal Papers
+### Journal Papers
 - Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), 2022.
 - Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), 2022.
 - Jiuchuan Jiang, Bo An, Yichuan Jiang, and Donghui Lin, "Context-aware Reliable Crowdsourcing in Social Networks," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 50(2), pp.617-632, 2020. [[DOI](https://doi.org/10.1109/TSMC.2017.2777447)]

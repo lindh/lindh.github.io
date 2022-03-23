@@ -7,7 +7,7 @@ layout: default
 ## Supervised Students
 The students are with Department of Social Informatics, Kyoto University, if not specified otherwise.
 
-(Last updated: Aug. 2021)
+(Last updated: Mar. 2022)
 
 ### Ph.D. Students
 - Huichen Chou (Ongoing, D3)
@@ -16,8 +16,9 @@ The students are with Department of Social Informatics, Kyoto University, if not
   - Thesis: Improving Mutual Understanding in Machine Translation Mediated Communication (Mar. 2020)
 
 ### Master Students
-- Shunto Mizushima (Ongoing, M2, Co-supervised with Prof. Shigeo Matsubara)
 - Hui Jin (Ongoing, M1)
+- Shunto Mizushima (Co-supervised with Prof. Shigeo Matsubara)
+  - Thesis: Analyzing the Impact of Buyers’ Experience on Bargaining over Rare Goods in Online Flea Markets (Mar. 2022)
 - Linhao Fu
   - Thesis: Multiagent-based P2P Energy Trading with Electric Vehicles (Aug. 2021)
 - Bowen Wei

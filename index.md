@@ -25,9 +25,11 @@ layout: default
 ## Biography
 
 ### Employment
-- **Apr. 2018-Current:** Associate Professor
+- **Apr. 2018-Current:** Program-Specific Associate Professor
   - Department of Social Informatics, Kyoto University
-- **Jan. 2012-Mar. 2018:** Assistant Professor
+- **Apr. 2015-Mar. 2018:** Assistant Professor
+  - Department of Social Informatics, Kyoto University
+- **Jan. 2012-Apr. 2015:** Program-Specific Assistant Professor
   - Department of Social Informatics, Kyoto University
 - **Oct. 2008-Dec. 2011:** Researcher
   - National Institute of Information and Communications Technology, Japan

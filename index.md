@@ -7,8 +7,6 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   Global Information Network Laboratory
-   <br>
    Department of Social Informatics, Graduate School of Informatics, Kyoto University
    <br>
    <br>
@@ -152,14 +150,15 @@ My research aims at generating advanced technologies for Internet-based collabor
 
 ## Professional Activity
 
-### International Conferences and Workshops
-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
+### Conferences and Workshops
+- IEEE International Conference on Web Services (ICWS), 2021-2022, Program Committee
+- The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
-- IEEE International Conference on Web Services (ICWS), 2021, Program Committee
 - IEEE International Conference on Agents (ICA), 2021, Publicity Chair
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2022, Board Member
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2021, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2022, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2022, Scientific Committee

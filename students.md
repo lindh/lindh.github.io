@@ -10,8 +10,9 @@ The students are with Department of Social Informatics, Kyoto University, if not
 (Last updated: Mar. 2022)
 
 ### Ph.D. Students
-- Huichen Chou (Ongoing, D3)
 - Shiyao Ding (Ongoing, D3)
+- Huichen Chou
+  - Thesis: Analyzing and Designing the Open Collaboration of Knowledge Content Creation (Jul. 2022 expected)
 - [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)
   - Thesis: Improving Mutual Understanding in Machine Translation Mediated Communication (Mar. 2020)
 

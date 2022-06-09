@@ -51,15 +51,15 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
-- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), 2022-
-- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), 2021-2022
+- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2022-
+- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2021-Mar. 2022
 - Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
 - Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
 - Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
 - [The Language Grid](http://langrid.org), **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
-## Recent Publications
-[The complete publication list is available here ](./publication.html).
+## Recent Publications (2016~)
+[The complete publication list is available here.](./publication.html)
 
 ### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
@@ -82,10 +82,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Victoria Abou Khalil, Toru Ishida, Masayuki Otani, Brendan Flanagan, Hiroaki Ogata, and Donghui Lin, “Learning Culturally Situated Dialogue Strategies to Support Language Learners,” _Research and Practice in Technology Enhanced Learning_, 13, 10, 2018. [[PDF](https://link.springer.com/content/pdf/10.1186/s41039-018-0076-x.pdf)][[DOI](https://doi.org/10.1186/s41039-018-0076-x)]
 - Amit Pariyar, Yohei Murakami, Donghui Lin, and Toru Ishida, "Information Sharing among Countries: A Perspective from Country-Specific Websites in Global Brands," _Journal of Information and Knowledge Management_, 15(2), pp.1-26, 2016. [[DOI](https://doi.org/10.1142/S0219649216500131)]
 - Mairidan Wushouer, Donghui Lin, Toru Ishida, and Katsutoshi Hirayama, "A Constraint Approach to Pivot-based Bilingual Dictionary Induction," _ACM Transactions on Asian and Low-Resource Language Information Processing_, 15(1), 4, 2016. [[DOI](https://doi.org/10.1145/2723144)]
-- Amit Pariyar, Yohei Murakami, Donghui Lin, and Toru Ishida, "Inconsistency Detection in Multilingual Knowledge Sharing," _Journal of Information and Knowledge Management_, 13(4), 2014. [[DOI](https://doi.org/10.1142/S0219649214500336)]
-- Chunqi Shi, Toru Ishida, and Donghui Lin, "Translation Agent: A New Metaphor for Machine Translation," _New Generation Computing_, 32(2), pp.163-186, 2014. [[DOI](https://doi.org/10.1007/s00354-014-0204-0)]
-- Donghui Lin and Toru Ishida, "Coordination of Local Process Views in Interorganizational Business Process," _IEICE Transactions on Information and Systems_, E97-D(5), pp.1119-1126, 2014. [[PDF](./files/IEICE201405_Lin.pdf)][[DOI](https://doi.org/10.1587/transinf.E97.D.1119)]
-- Donghui Lin, Toru Ishida, Yohei Murakami and Masahiro Tanaka, "QoS Analysis for Service Composition by Human and Web Services," _IEICE Transactions on Information and Systems_, E97-D(4), pp.762-769, 2014. [[PDF](./files/IEICE201404_Lin.pdf)][[DOI](https://doi.org/10.1587/transinf.E97.D.762)]
 
 ### Journal Papers in Japanese
 - 大川楠人, 林冬惠, 村上陽平, 中口孝雄. 異種のIoTデバイスとWebサービスの相互運用のためのIoTサービス基盤, _電子情報通信学会論文誌D_, Vol.J105-D, No.01, pp.41-51, 2022. [[PDF](./files/IEICE202201_Okawa.pdf)][[DOI](https://doi.org/10.14923/transinfj.2021SKP0023)]
@@ -93,9 +89,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - 林冬惠, 石田亨, 村上陽平, 大谷雅之, 中口孝雄. 言語グリッドを用いた多言語農業支援, _電子情報通信学会論文誌B_, Vol.J100-B, No.9, pp.714-721, 2017.（100周年記念招待論文）[[PDF](./files/j100-b_9_714.pdf)][[DOI](https://doi.org/10.14923/transcomj.2016SHI0008)]
 - 後藤真介，石田亨，林冬惠. 繰り返しおよび並列プロセスからなるクラウドソーシングワークフローの最適化, _電子情報通信学会論文誌D_, Vol.J99-D, No.11, pp.1094-1101, 2016. [[DOI](https://doi.org/10.14923/transinfj.2016JDP7031)]
 - 中口孝雄，村上陽平，林冬惠，石田亨. 高階関数を導入した階層的サービス合成記述, _電子情報通信学会論文誌B_, Vol.J99-B, No.10, pp.834-842, 2016. [[DOI](https://doi.org/10.14923/transcomj.2016IAP0016)]
-- 後藤真介，林冬惠，石田亨. クラウドソーシングによる翻訳評価の分析, _電子情報通信学会論文誌D_, Vol.J97-D, No.7, pp.1158-1165, 2014.
-- 村上陽平，林冬惠，石田亨，田仲正弘. 多言語サービス基盤のための連邦アーキテクチャ，_電子情報通信学会論文誌D_，Vol.J97-D, No.6, pp.1094-1101, 2014．
-- 山口卓郎，菱山玲子，北川大輔，中島悠，稲葉利江子，林冬惠. 機械翻訳サービスと編集サービスの相互連携における翻訳品質と編集者適応，_情報処理学会論文誌_，Vol.55, No.4, pp.1303-1315, 2014．
 
 ### Book Chapters
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
@@ -111,9 +104,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Toru Ishida, Donghui Lin, Masayuki Otani, Shigeo Matsubara, Yohei Murakami, Reiko Hishiyama, Yuu Nakajima, Toshiyuki Takasaki, and Yumiko Mori, "Field-Oriented Service Design: A Multiagent Approach," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.451-463, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_31)]
 - Donghui Lin, Toru Ishida, and Masayuki Otani, "A Value Co-Creation Model for Multi-Language Knowledge Communication," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.435-447, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_30)]
 - Masayuki Otani, Kaori Kita, Donghui Lin, Toru Ishida, "Analysis of Multi-language Knowledge Communication Service in Intercultural Agricultural Support," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.417-434, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_29)]
-- Dave Murray-Rust, Ognjen Scekic, and Donghui Lin, “Worker-centric Design for Software Crowdsourcing: Towards Cloud Careers,” in _Cloud-based Software Crowdsourcing_, Michael N. Huhns, et.al. Eds, pp.39-50, Springer, 2015. [[DOI](https://doi.org/10.1007/978-3-662-47011-4_3)]
-- Donghui Lin and Toru Ishida, "User-Centered Service Design for Multi-Language Knowledge Communication," in _Serviceology for Services_, Masaaki Mochimaru, et.al. Eds., pp.309-317, Springer, 2014. [[DOI](https://doi.org/10.1007/978-4-431-54816-4_32)]
-- Yohei Murakami, Donghui Lin, and Toru Ishida, "Service-Oriented Architecture for Interoperability of Multi-Language Services," in _Towards the Multilingual Semantic Web_, Paul Buitelaar and Philipp Cimiano, Eds., pp.313-328, Springer, 2014. [[DOI](https://doi.org/10.1007/978-3-662-43585-4_19)]
 
 ### International Conference Papers
 - Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, L'Aquila, Italy, July, 2022. (to appear)
@@ -139,12 +129,6 @@ My research aims at generating advanced technologies for Internet-based collabor
 - Takao Nakaguchi, Yohei Murakami, Donghui Lin, Toru Ishida, "Higher-Order Functions for Modeling Hierarchical Service Bindings," _2016 IEEE International Conference on Services Computing (IEEE SCC 2016)_, pp.798-803, June, 2016. (Short Paper) [[DOI](https://doi.org/10.1109/SCC.2016.110)]
 - Nguyen Cao Hong Ngoc, Donghui Lin, Takao Nakaguchi, Toru Ishida, "Towards a Language Service Infrastructure for Mobile Environments," _The 10th International Conference on Language Resources and Evaluation (LREC 2016)_, pp.4472-4478, May, 2016. [[PDF](http://www.lrec-conf.org/proceedings/lrec2016/pdf/864_Paper.pdf)]
 - Junta Koyama, Yohei Murakami, Donghui Lin, Toru Ishida, "Event-Based Sensor Service Composition," _3rd IEEE World Forum on Internet of Things (WF-IoT 2016)_, pp.263-264, Reston, VA, USA, December, 2016. (Extended Abstract) [[DOI](https://doi.org/10.1109/WF-IoT.2016.7845454)]
-- Amit Pariyar, Yohei Murakami, Donghui Lin, and Toru Ishida, "Content Sharing in Global Brand from Geographic Perspective," _2015 International Conference on Culture and Computing (Culture and Computing 2015)_, pp.151-158, Oct. 2015. (Best Paper Award Runner-up) [[DOI](https://doi.org/10.1109/Culture.and.Computing.2015.47)]
-- Mairidan Wushouer, Toru Ishida, Donghui Lin, Katsutoshi Hirayama, "Bilingual Dictionary Induction as an Optimization Problem," _The 9th International Conference on Language Resources and Evaluation (LREC 2014)_, pp.2122-2129, May, 2014. [[PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/417_Paper.pdf)]
-- Shinsuke Goto, Donghui Lin, Toru Ishida, "Crowdsourcing for Evaluating Machine Translation Quality," _The 9th International Conference on Language Resources and Evaluation (LREC 2014)_, pp.3456-3463, May, 2014. [[PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/756_Paper.pdf)]
-- Trang Mai Xuan, Yohei Murakami, Donghui Lin, Toru Ishida, "Integration of Workflow and Pipeline for Language Service Composition," _The 9th International Conference on Language Resources and Evaluation (LREC 2014)_, pp.3829-3836, May, 2014. [[PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/930_Paper.pdf)]
-- Mairidan Wushouer, Donghui Lin, Toru Ishida, Katsutoshi Hirayama, "Pivot-Based Bilingual Dictionary Extraction from Multiple Dictionary Resources," _13th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2014)_, pp.221-234, Gold Coast, QLD, Australia, December, 2014. [[DOI](https://doi.org/10.1007/978-3-319-13560-1_18)]
--	Nguyen Cao Hong Ngoc, Donghui Lin, Takao Nakaguchi, Toru Ishida, "QoS-Aware Service Composition in Mobile Environments," _7th IEEE International Conference on Service-Oriented Computing and Applications (SOCA 2014)_, pp.97-104, Matsue, Japan, November, 2014. [[DOI](https://doi.org/10.1109/SOCA.2014.51)]
 
 ## Awards
 - Best Student Paper Award, [The 5th IEEE International Conference on Agents (IEEE ICA 2021)](https://sites.google.com/view/ieeeica2021/program/awards?authuser=0)
@@ -175,7 +159,21 @@ My research aims at generating advanced technologies for Internet-based collabor
 - International Workshop on Intercultural Collaboration (IWIC), 2007, Organization Committee
 
 ### Review Service for Journals
-- IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions on Cybernetics, IEEE Transactions on Services Computing, IEEE Transactions on Reliability, ACM Transactions on Autonomous and Adaptive Systems, ACM Performance Evaluation Review, International Journal of Business Process Integration and Management, Journal of Parallel and Distributed Computing, IET Software, IEICE Transactions on Information Systems, Advances in Engineering Software, IPSJ Journal, Science China Information Sciences, Computing, etc.
+- IEEE Transactions on Services Computing
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Systems, Man, and Cybernetics
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Reliability
+- ACM Transactions on Autonomous and Adaptive Systems
+- ACM Performance Evaluation Review
+- International Journal of Business Process Integration and Management
+- Journal of Parallel and Distributed Computing
+- Language Resources and Evaluation
+- IET Software
+- Advances in Engineering Software
+- IEICE Transactions on Information Systems
+- IPSJ Journal, Journal of Information Processing
+- Transactions of the Japanese Society for Artificial Intelligence (JSAI)
 
 ### Associations
 - IEEE, IEICE, IPSJ, JSAI, Member

@@ -14,8 +14,8 @@ My research aims at generating advanced technologies for Internet-based collabor
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
-- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), 2022-
-- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), 2021-2022
+- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2022-
+- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2021-Mar. 2022
 - Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
 - Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
 - Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021

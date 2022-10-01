@@ -10,7 +10,7 @@ layout: default
    Graduate School of Natural Science and Technology, Okayama University
    <br>
    <br>
-   **Office**: Room 205, Faculty of Engineering Building No.4, Kyoto University ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
+   **Office**: Room 205, Faculty of Engineering Building No.4, Kyoto University ([N33 in the Map](https://www.okayama-u.ac.jp/up_load_files/freetext/en__Tsushima_Campus/file/map_tsushima.pdf))
    <br>
    **Address**: 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530 Japan
    <br>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) &emsp; [CV (in Japanese)](./files/CV_ja.pdf)
+[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) 
 
 ## Complete Publication List
 [Books](#books) &emsp; [Guest Editorials](#guest-editorial) &emsp; [International Journals](#international-journal-papers) &emsp; [Journals in Japanese](#journal-papers-in-japanese) &emsp; [Book Chapters](#book-chapters) &emsp; [International Conferences](#international-conference-papers)

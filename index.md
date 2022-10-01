@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) &emsp; [CV (in Japanese)](./files/CV_ja.pdf)
+[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html)
 
 <br>
 

@@ -48,6 +48,7 @@ layout: default
 ## Research
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities.
 <br>
+<br>
 In Oct. 2022, I started the Intelligent Computing Laboratory at Department of Computer Science, Graduate School of Natural Science and Technology, Okayama University.
 
 ### Research Interests

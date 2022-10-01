@@ -7,23 +7,25 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   Department of Social Informatics, Graduate School of Informatics, Kyoto University
+   Graduate School of Natural Science and Technology, Okayama University
    <br>
    <br>
-   **Office**: Room 107, Research Building No. 12, Main Campus, Kyoto University ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
+   **Office**: Room 205, Faculty of Engineering Building No.4, Kyoto University ([Map](https://www.kyoto-u.ac.jp/en/access/main-campus-map.html))
    <br>
-   **Address**: Yoshida-Honmachi, Sakyo-Ku, Kyoto, 606-8501, Japan
+   **Address**: 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530 Japan
    <br>
-   **Phone**: +81-75-753-4959 &emsp; **Fax**: +81-75-753-4820 &emsp; **Email**: lindh at i.kyoto-u.ac.jp
+   **Phone**: +81-TBD &emsp; **Fax**: +81-TBD &emsp; **Email**: lindh at okayama-u.ac.jp
    <br>
    <br>
    **Researcher Database Links**:   
-   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [Kyoto-U DB](https://kyouindb.iimc.kyoto-u.ac.jp/e/oK6aA) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
+   [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lin:Donghui) &emsp; [KAKEN (Grants)](https://nrid.nii.ac.jp/en/nrid/1000090534131/) &emsp; [ORCID](https://orcid.org/0000-0001-9462-0216) &emsp; [Researchmap](https://researchmap.jp/DonghuiLin?lang=en) &emsp; [Google Scholar](https://scholar.google.com/citations?user=kEs1I8AAAAAJ)
 
 ## Biography
 
 ### Employment
-- **Apr. 2018-Current:** Program-Specific Associate Professor
+- **Oct. 2022-Current:** Associate Professor
+  - Graduate School of Natural Science and Technology, Okayama University
+- **Apr. 2018-Sep. 2022:** Program-Specific Associate Professor
   - Department of Social Informatics, Kyoto University
 - **Apr. 2015-Mar. 2018:** Assistant Professor
   - Department of Social Informatics, Kyoto University

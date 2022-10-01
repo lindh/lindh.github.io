@@ -4,20 +4,21 @@ layout: default
 
 [Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) &emsp; [CV (in Japanese)](./files/CV_ja.pdf)
 
-## Supervised Students
-The students are with Department of Social Informatics, Kyoto University, if not specified otherwise.
-
-(Last updated: Mar. 2022)
+## Supervised Students at Department of Social Informatics, Kyoto University (2018-2022)
 
 ### Ph.D. Students
-- Shiyao Ding (Ongoing, D3)
+- Shiyao Ding
+  - Thesis: Multi-Agent Reinforcement Learning for Cooperative Edge Cloud Computing (Sep. 2022)
+  - Current Position: Assistant Professor, Kyoto University
 - Huichen Chou
-  - Thesis: Analyzing and Designing the Open Collaboration of Knowledge Content Creation (Jul. 2022 expected)
-- [Mondheera Pituxcoosuvarn](http://www.ritsumei.ac.jp/~mond-p/)
+  - Thesis: Analyzing and Designing the Open Collaboration of Knowledge Content Creation (Jul. 2022)
+  - Current Position: CEO, DX Unit LLC.
+- Mondheera Pituxcoosuvarn
   - Thesis: Improving Mutual Understanding in Machine Translation Mediated Communication (Mar. 2020)
+  - Current Position: Assistant Professor, Ritsumeikan University
 
 ### Master Students
-- Hui Jin (Ongoing, M1)
+- Hui Jin (Ongoing, M2, Co-supervised with Prof. Takayuki Ito)
 - Shunto Mizushima (Co-supervised with Prof. Shigeo Matsubara)
   - Thesis: Analyzing the Impact of Buyers’ Experience on Bargaining over Rare Goods in Online Flea Markets (Mar. 2022)
 - Linhao Fu

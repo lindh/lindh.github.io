@@ -141,6 +141,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 ## Professional Activity
 
 ### Conferences and Workshops
+- AAAI Conference on Artificial Intelligence (AAAI), 2023, Program Committee
 - IEEE International Conference on Web Services (ICWS), 2021-2022, Program Committee
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee

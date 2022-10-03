@@ -16,7 +16,7 @@ layout: default
    <br>
    **Address**: 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530 Japan
    <br>
-   **Phone**: +81-TBD &emsp; **Fax**: +81-TBD &emsp; **Email**: lindh at okayama-u.ac.jp
+   **Phone**: +81-86-251-8186 &emsp; **Fax**: +81-86-251-8256 &emsp; **Email**: lindh at okayama-u.ac.jp
    <br>
    <br>
    **Researcher Database Links**:   

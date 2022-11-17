@@ -7,7 +7,7 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   P.I., [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Department of Computer Science,
+   [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Department of Computer Science,
    <br>
    Graduate School of Natural Science and Technology, Okayama University
    <br>

@@ -7,7 +7,7 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   Department of Computer Science,
+   P.I., [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Department of Computer Science,
    <br>
    Graduate School of Natural Science and Technology, Okayama University
    <br>
@@ -49,7 +49,7 @@ layout: default
 My research aims at generating advanced technologies for Internet-based collaboration infrastructures. Based on fundamental methodologies of multiagent systems and human computer interaction, I focus on research issues and technological challenges of services computing and Internet of Things (IoT) for realizing the interaction between various cloud services and the physical world. Moreover, I conduct research on intercultural collaboration and multi-language communication based on the Language Grid, a service-oriented language infrastructure we have developed for supporting various collaboration activities.
 <br>
 <br>
-In October 2022, I started a new laboratory at Department of Computer Science, Graduate School of Natural Science and Technology, Okayama University.
+In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/) at Department of Computer Science, Graduate School of Natural Science and Technology, Okayama University.
 
 ### Research Interests
 - **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing

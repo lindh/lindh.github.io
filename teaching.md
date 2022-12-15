@@ -21,7 +21,7 @@ layout: default
 ### April, 2012 - September, 2022
 
 #### Graduate School
-- 情報学展望5/Perspective in Informatics 5 (Internet of Things)，後期，英語，京都大学大学院情報学研究科，2021年度−2022年度
+- 情報学展望5/Perspective in Informatics 5 (Internet of Things)，後期，英語，京都大学大学院情報学研究科，2021年度
 - 情報社会論/Information and Society, 前期，英語，京都大学大学院情報学研究科，2018年度−2022年度
 - FBL/PBL (Blockchain System Design), 英語，協力担当者，京都大学大学院情報学研究科，2018年度
 - 情報システム論実習（サービスコンピューティング），英語・日本語，京都大学大学院情報学研究科，2016年度−2018年度

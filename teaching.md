@@ -6,7 +6,7 @@ layout: default
 
 ## Teaching
 
-(Last updated: Mar. 2022)
+(Last updated: Oct. 2022)
 
 ## October, 2022 - Current
 #### Graduate School

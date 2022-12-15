@@ -8,7 +8,7 @@ layout: default
 
 (Last updated: Oct. 2022)
 
-## October, 2022 - Current
+### October, 2022 - Current
 #### Graduate School
 - マルチエージェントシステム論/Multiagent System，後期後半，日本語，岡山大学自然科学研究科，2022年度
 - クラウドコンピューティング特論/Advanced Research in Cloud Computing，後期，英語・日本語，岡山大学自然科学研究科，2022年度
@@ -18,7 +18,7 @@ layout: default
 - 情報工学実験B (メディア処理)，第3学期，日本語，岡山大学工学部情報工学コース，2022年度
 - 情報工学実験C (ソフトウェア)，第4学期，日本語，岡山大学工学部情報工学コース，2022年度
 
-## April, 2012 - September, 2022
+### April, 2012 - September, 2022
 
 #### Graduate School
 - 情報学展望5/Perspective in Informatics 5 (Internet of Things)，後期，英語，京都大学大学院情報学研究科，2021年度−2022年度

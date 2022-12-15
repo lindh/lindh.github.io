@@ -2,13 +2,25 @@
 layout: default
 ---
 
-[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) 
+[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html)
 
 ## Teaching
 
 (Last updated: Mar. 2022)
 
-### Graduate School
+## October, 2022 - Current
+#### Graduate School
+- マルチエージェントシステム論/Multiagent System，後期後半，日本語，岡山大学自然科学研究科，2022年度
+- クラウドコンピューティング特論/Advanced Research in Cloud Computing，後期，英語・日本語，岡山大学自然科学研究科，2022年度
+- 情報学展望5/Perspective in Informatics 5 (Internet of Things)，後期，英語，京都大学大学院情報学研究科（非常勤講師），2022年度
+
+#### Undergraduate School
+- 情報工学実験B (メディア処理)，第3学期，日本語，岡山大学工学部情報工学コース，2022年度
+- 情報工学実験C (ソフトウェア)，第4学期，日本語，岡山大学工学部情報工学コース，2022年度
+
+## April, 2012 - September, 2022
+
+#### Graduate School
 - 情報学展望5/Perspective in Informatics 5 (Internet of Things)，後期，英語，京都大学大学院情報学研究科，2021年度−2022年度
 - 情報社会論/Information and Society, 前期，英語，京都大学大学院情報学研究科，2018年度−2022年度
 - FBL/PBL (Blockchain System Design), 英語，協力担当者，京都大学大学院情報学研究科，2018年度
@@ -16,7 +28,7 @@ layout: default
 - FBL/PBL（クラウドソーシングデザイン）, 英語・日本語，協力担当者，京都大学デザイン学大学院連携プログラム，2013年度−2016年度
 - 情報システム設計論，英語・日本語，京都大学大学院情報学研究科，2012年度−2015年度
 
-### Undergraduate School
+#### Undergraduate School
 - Information and Society-E2, 前期/後期，英語，京都大学（全学共通），2018年度−2022年度
 - Basic Informatics-E2, 前期，英語，京都大学（全学共通），2018年度−2022年度
 - Practice of Basic Informatics-E2, 後期，英語，京都大学（全学共通、後期），2018年度−2022年度

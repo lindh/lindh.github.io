@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) 
+[Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html)
 
 ## Complete Publication List
 [Books](#books) &emsp; [Guest Editorials](#guest-editorial) &emsp; [International Journals](#international-journal-papers) &emsp; [Journals in Japanese](#journal-papers-in-japanese) &emsp; [Book Chapters](#book-chapters) &emsp; [International Conferences](#international-conference-papers)
@@ -71,7 +71,8 @@ layout: default
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ### International Conference Papers
-- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, L'Aquila, Italy, July, 2022. (to appear)
+- Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao, “Layer-refined Graph Convolutional Networks for Recommendation,” _The 39th IEEE International Conference on Data Engineering (IEEE ICDE 2023)_, Anaheim, California, USA, April, 2023. (to appear)
+- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, L'Aquila, Italy, July, 2022.
 - Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing,” _The 5th IEEE International Conference on Agents (IEEE ICA 2021)_, pp.25-30, Japan, December, 2021. [[DOI](https://doi.org/10.1109/ICA54137.2021.00011)] (Best Student Paper Award)
 - Huichen Chou, Donghui Lin, Takao Nakaguchi, and Toru Ishida, “A Blockchain-based Collaboration Framework for Teaching Material Creation,” _The 23rd International Conference on Human-Computer Interaction (HCII 2021)_, HCI(23), pp.3-14, Washington DC, USA, July, 2021. [[DOI](https://doi.org/10.1007/978-3-030-77889-7_1)]
 - Huichen Chou, Rafik Hadfi, Donghui Lin, and Takayuki Ito, “Identifying Collaborative Editing Traits and Phases in Good Wikipedia Articles,“ _ACM Collective Intelligence Conference 2021 (ACM CI 2021)_, Copenhagen, Denmark, June, 2021.

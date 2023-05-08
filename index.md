@@ -11,6 +11,7 @@ layout: default
    <br>
    Graduate School of Environmental, Life, Natural Science and Technology
    <br>
+   Okayama University
    <br>
    **Office**: Room 205, Faculty of Engineering Building No.4, Okayama University ([N33@Map](https://www.okayama-u.ac.jp/up_load_files/freetext/en__Tsushima_Campus/file/map_tsushima.pdf))
    <br>

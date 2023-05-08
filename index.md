@@ -7,16 +7,16 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Department of Computer Science,
+   [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Computer Science Course,
    <br>
-   Graduate School of Natural Science and Technology, Okayama University
+   Graduate School of Environmental, Life, Natural Science and Technology
    <br>
    <br>
    **Office**: Room 205, Faculty of Engineering Building No.4, Okayama University ([N33@Map](https://www.okayama-u.ac.jp/up_load_files/freetext/en__Tsushima_Campus/file/map_tsushima.pdf))
    <br>
    **Address**: 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530 Japan
    <br>
-   **Phone**: +81-86-251-8186 &emsp; **Fax**: +81-86-251-8256 &emsp; **Email**: lindh at okayama-u.ac.jp
+   **Email**: lindh at okayama-u.ac.jp
    <br>
    <br>
    **Researcher Database Links**:   
@@ -26,7 +26,8 @@ layout: default
 
 ### Employment
 - **Oct. 2022-Current:** Associate Professor
-  - Graduate School of Natural Science and Technology, Okayama University
+  - Graduate School of Natural Science and Technology, Okayama University (Oct. 2022-Mar. 2023)
+  - Graduate School of Environmental, Life, Natural Science and Technology (Apr. 2023-Current)
 - **Apr. 2018-Sep. 2022:** Program-Specific Associate Professor
   - Department of Social Informatics, Kyoto University
 - **Apr. 2015-Mar. 2018:** Assistant Professor
@@ -54,7 +55,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ### Research Interests
 - **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing
 - **Internet of Things (IoT)**: IoT service infrastructure, self-organizing IoT service network, task allocation and resource allocation in IoT environments
-- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents
+- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents, multi-agent pathfinding
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
@@ -148,14 +149,15 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 
 ### Conferences and Workshops
 - AAAI Conference on Artificial Intelligence (AAAI), 2023, Program Committee
-- IEEE International Conference on Web Services (ICWS), 2021-2022, Program Committee
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023, Program Committee
+- IEEE International Conference on Web Services (ICWS), 2021-2023, Program Committee
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
 - IEEE International Conference on Agents (ICA), 2021, Publicity Chair
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2022, Board Member
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2022, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2023, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2022, Scientific Committee
@@ -173,6 +175,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - IEEE Transactions on Systems, Man, and Cybernetics
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Reliability
+- IEEE Transactions on Vehicular Technology
 - ACM Transactions on Autonomous and Adaptive Systems
 - ACM Performance Evaluation Review
 - International Journal of Business Process Integration and Management

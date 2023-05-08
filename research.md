@@ -10,7 +10,7 @@ My research aims at generating advanced technologies for Internet-based collabor
 ### Research Interests
 - **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing
 - **Internet of Things (IoT)**: IoT service infrastructure, self-organizing IoT service network, task allocation and resource allocation in IoT environments
-- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents
+- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents, multi-agent pathfinding
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects

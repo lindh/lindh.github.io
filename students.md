@@ -4,7 +4,7 @@ layout: default
 
 [Home](https://lindh.github.io/)&emsp; [Teaching](./teaching.html) &emsp; [Research](./research.html) &emsp; [Publications](./publication.html) &emsp; [Supervised Students](./students.html) 
 
-## Supervised Students at Okayama University (2023)
+## Supervised Students at Okayama University (2023-)
 ### Undergraduate Students
 - Masahiro Kaji
 - Kazuki Kita
@@ -27,7 +27,7 @@ layout: default
 
 ### Master Students
 - Hui Jin (Co-supervised with Prof. Takayuki Ito)
-  - Thesis: Meta-Reinforcement Learning for Dependent Task Allocation in Edge Computing
+  - Thesis: Meta-Reinforcement Learning for Dependent Task Allocation in Edge Computing (Mar. 2023)
 - Shunto Mizushima (Co-supervised with Prof. Shigeo Matsubara)
   - Thesis: Analyzing the Impact of Buyers’ Experience on Bargaining over Rare Goods in Online Flea Markets (Mar. 2022)
 - Linhao Fu

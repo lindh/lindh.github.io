@@ -27,7 +27,7 @@ layout: default
 ### Employment
 - **Oct. 2022-Current:** Associate Professor
   - Graduate School of Natural Science and Technology, Okayama University (Oct. 2022-Mar. 2023)
-  - Graduate School of Environmental, Life, Natural Science and Technology (Apr. 2023-Current)
+  - Graduate School of Environmental, Life, Natural Science and Technology, Okayama University (Apr. 2023-Current)
 - **Apr. 2018-Sep. 2022:** Program-Specific Associate Professor
   - Department of Social Informatics, Kyoto University
 - **Apr. 2015-Mar. 2018:** Assistant Professor
@@ -190,4 +190,5 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ### Associations
 - IEEE, IEICE, IPSJ, JSAI, Member
 - IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
+- IPSJ Chugoku Branch, 2023-, Secretary
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors

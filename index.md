@@ -41,7 +41,7 @@ layout: default
 ### Education
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
-  - Thesis: Modeling and Coordination in Interorganizational Workflow 
+  - Thesis: Modeling and Coordination in Interorganizational Workflow
   - Supervisor: [Prof. Toru Isihda](https://oldtextbook.com/toru-ishida/)
 - **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
@@ -151,16 +151,17 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ## Professional Activity
 
 ### Conferences and Workshops
-- AAAI Conference on Artificial Intelligence (AAAI), 2023, Program Committee
+- AAAI Conference on Artificial Intelligence (AAAI), 2023-2024, Program Committee
 - Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023, Program Committee
 - IEEE International Conference on Web Services (ICWS), 2021-2023, Program Committee
+- IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023, Program Committee
+- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2023, Program Committee
+- International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2023, Board Member
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
 - IEEE International Conference on Agents (ICA), 2021, Publicity Chair
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
-- International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2022, Board Member
-- IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2023, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2022, Scientific Committee

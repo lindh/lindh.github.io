@@ -102,6 +102,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - 中口孝雄，村上陽平，林冬惠，石田亨. 高階関数を導入した階層的サービス合成記述, _電子情報通信学会論文誌B_, Vol.J99-B, No.10, pp.834-842, 2016. [[DOI](https://doi.org/10.14923/transcomj.2016IAP0016)]
 
 ### Book Chapters
+- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., Springer, 2023. (to appear)
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds., pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
@@ -116,9 +117,11 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - Donghui Lin, Toru Ishida, and Masayuki Otani, "A Value Co-Creation Model for Multi-Language Knowledge Communication," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.435-447, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_30)]
 - Masayuki Otani, Kaori Kita, Donghui Lin, Toru Ishida, "Analysis of Multi-language Knowledge Communication Service in Intercultural Agricultural Support," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.417-434, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_29)]
 
-### International Conference Papers
-- Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao, “Layer-refined Graph Convolutional Networks for Recommendation,” _The 39th IEEE International Conference on Data Engineering (IEEE ICDE 2023)_, Anaheim, California, USA, April, 2023. (to appear)
-- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, L'Aquila, Italy, July, 2022.
+### International Conference/Workshop Papers
+- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “MARL4DRP: Benchmarking Cooperative Multi-Agent Reinforcement Learning Algorithms for Drone Routing Problems,” _20th Pacific Rim International Conference on Artificial Intelligence (PRICAI2023)_, Jakarta, Indonesia, Nov. 2023. (to appear)
+- Hideki Aoyama, Atuyoshi Kita, Shiyao Ding, and Donghui Lin, “Drone Routing Problem: Multi-agent Path Finding Problem for Safe and Efﬁcient Last-mile Delivery,” _Last-Mile Robotics Workshop on International Conference on Intelligent Robots and Systems (IROS2023)_, Detroit, Michigan, USA, Oct. 2023.
+- Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao, “Layer-refined Graph Convolutional Networks for Recommendation,” _The 39th IEEE International Conference on Data Engineering (IEEE ICDE 2023)_, pp.1247-1259, Anaheim, California, USA, April, 2023. [[DOI](https://doi.ieeecomputersociety.org/10.1109/ICDE55515.2023.00100)]
+- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, pp.112-126, L'Aquila, Italy, July, 2022. [[DOI](https://doi.org/10.1007/978-3-031-18192-4_10)]
 - Shiyao Ding, Donghui Lin, and Xin Zhou, “Graph Convolutional Reinforcement Learning for Dependent Task Allocation in Edge Computing,” _The 5th IEEE International Conference on Agents (IEEE ICA 2021)_, pp.25-30, Japan, December, 2021. [[DOI](https://doi.org/10.1109/ICA54137.2021.00011)] (Best Student Paper Award)
 - Huichen Chou, Donghui Lin, Takao Nakaguchi, and Toru Ishida, “A Blockchain-based Collaboration Framework for Teaching Material Creation,” _The 23rd International Conference on Human-Computer Interaction (HCII 2021)_, HCI(23), pp.3-14, Washington DC, USA, July, 2021. [[DOI](https://doi.org/10.1007/978-3-030-77889-7_1)]
 - Huichen Chou, Rafik Hadfi, Donghui Lin, and Takayuki Ito, “Identifying Collaborative Editing Traits and Phases in Good Wikipedia Articles,“ _ACM Collective Intelligence Conference 2021 (ACM CI 2021)_, Copenhagen, Denmark, June, 2021.
@@ -164,7 +167,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
 - IEEE International Conference on e-Business Engineering (ICEBE), 2019-2020, Program Committee
-- The Language Resources and Evaluation Conference (LREC), 2016-2022, Scientific Committee
+- The Language Resources and Evaluation Conference (LREC), 2016-2024, Scientific Committee
 - IEEE International Congress on Internet of Things (ICIOT), 2017-2019, Program Committee
 - IEEE International Conference on Cognitive Computing (ICCC), 2017-2019, Program Committee
 - [International Workshop on Massively Multi-agent Systems in conjunction with IJCAI/AAMAS 2018](https://lindh.github.io/mmas2018/index.html), Organizer

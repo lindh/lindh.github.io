@@ -155,15 +155,15 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 
 ### Conferences and Workshops
 - First Drone Routing Problems Competition in conjunction with AAMAS 2024, Co-organizer
-- AAAI Conference on Artificial Intelligence (AAAI), 2023-2024, Program Committee
-- Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023, Program Committee
+- AAAI Conference on Artificial Intelligence (AAAI), 2023-2025, Program Committee
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023-2024, Program Committee
 - IEEE International Conference on Web Services (ICWS), 2021-2024, Program Committee
 - IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, Program Committee
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2024, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2023, Board Member
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
-- IEEE International Conference on Agents (ICA), 2021, Publicity Chair
+- IEEE International Conference on Agents (ICA), 2021, Publicity Chair; 2024, Program Committee
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee
@@ -198,5 +198,6 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ### Associations
 - IEEE, IEICE, IPSJ, JSAI, Member
 - IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
+- IEICE Technical Committee on Consensus, 2022-Current, Committee Member
 - IPSJ Chugoku Branch, 2023-, Secretary
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors

@@ -7,7 +7,7 @@ layout: default
 ## Complete Publication List
 [Books](#books) &emsp; [Guest Editorials](#guest-editorial) &emsp; [International Journals](#international-journal-papers) &emsp; [Journals in Japanese](#journal-papers-in-japanese) &emsp; [Book Chapters](#book-chapters) &emsp; [International Conferences](#international-conference-papers)
 
-(Last updated: Sep. 2021)
+(Last updated: Sep. 2024)
 
 ### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
@@ -18,6 +18,7 @@ layout: default
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### Journal Papers
+- Xin Zhou, Aixin Sun, Jie Zhang, and Donghui Lin, “The Crowd in MOOCs: A Study of Learning Patterns at Scale,” _Interactive Learning Environments_, August, 1–15, 2024. [[DOI](https://doi:10.1080/10494820.2024.2392175)]
 - Huichen Chou, Donghui Lin and Toru Ishida, "Understanding Open Collaboration of Wikipedia Good Articles with Factor Analysis," _Journal of Information and Knowledge Management_, 21(2), 2250030, 2022. [[DOI](https://doi.org/10.1142/S0219649222500307)]
 - Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.936-945, 2022. [[DOI](https://doi.org/10.1587/transinf.2021dap0010)]
 - Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.846-872, 2022. [[DOI](https://doi.org/10.1587/transinf.2021kbp0007)]
@@ -50,7 +51,7 @@ layout: default
 - 石田亨，村上陽平，稲葉利江子，林冬惠，田仲正弘. 言語グリッド：サービス指向の多言語基盤，_電子情報通信学会論文誌D_, Vol.J95-D, No.1, pp.2-10, 2012. (招待論文) [[PDF](./files/j95-d_1_2.pdf)]
 
 ### Book Chapters
-- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., Springer, 2023. (to appear)
+- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., pp.23-56, Springer, 2024.
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds., pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
@@ -72,6 +73,8 @@ layout: default
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ### International Conference/Workshop Papers
+- Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "LLM-based Interoperable IoT Service Platform," _The 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2024)_, Bangkok, Thailand, December 2024. (to appear)
+- Masahiro Kaji, Donghui Lin, and Fumito Uwano, "Safe Multi-agent Reinforcement Learning for Drone Routing Problems," _The 25th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2024)_, Kyoto, Japan, November 2024. (to appear)
 - Shiyao Ding, Hideki Aoyama, and Donghui Lin, “MARL4DRP: Benchmarking Cooperative Multi-Agent Reinforcement Learning Algorithms for Drone Routing Problems,” _20th Pacific Rim International Conference on Artificial Intelligence (PRICAI2023)_, Jakarta, Indonesia, Nov. 2023. (to appear)
 - Hideki Aoyama, Atuyoshi Kita, Shiyao Ding, and Donghui Lin, “Drone Routing Problem: Multi-agent Path Finding Problem for Safe and Efﬁcient Last-mile Delivery,” _Last-Mile Robotics Workshop on International Conference on Intelligent Robots and Systems (IROS2023)_, Detroit, Michigan, USA, Oct. 2023.
 - Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao, “Layer-refined Graph Convolutional Networks for Recommendation,” _The 39th IEEE International Conference on Data Engineering (IEEE ICDE 2023)_, pp.1247-1259, Anaheim, California, USA, April, 2023. [[DOI](https://doi.ieeecomputersociety.org/10.1109/ICDE55515.2023.00100)]

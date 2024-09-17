@@ -81,6 +81,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### Journal Papers
+- Xin Zhou, Aixin Sun, Jie Zhang, and Donghui Lin, “The Crowd in MOOCs: A Study of Learning Patterns at Scale,” _Interactive Learning Environments_, August, 1–15, 2024. [[DOI](https://doi:10.1080/10494820.2024.2392175)]
 - Huichen Chou, Donghui Lin and Toru Ishida, "Understanding Open Collaboration of Wikipedia Good Articles with Factor Analysis," _Journal of Information and Knowledge Management_, 21(2), 2250030, 2022. [[DOI](https://doi.org/10.1142/S0219649222500307)]
 - Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.936-945, 2022. [[DOI](https://doi.org/10.1587/transinf.2021dap0010)]
 - Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.846-872, 2022. [[DOI](https://doi.org/10.1587/transinf.2021kbp0007)]
@@ -102,7 +103,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - 中口孝雄，村上陽平，林冬惠，石田亨. 高階関数を導入した階層的サービス合成記述, _電子情報通信学会論文誌B_, Vol.J99-B, No.10, pp.834-842, 2016. [[DOI](https://doi.org/10.14923/transcomj.2016IAP0016)]
 
 ### Book Chapters
-- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., Springer, 2023. (to appear)
+- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., pp.23-56, Springer, 2024.
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds., pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]
@@ -118,7 +119,9 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - Masayuki Otani, Kaori Kita, Donghui Lin, Toru Ishida, "Analysis of Multi-language Knowledge Communication Service in Intercultural Agricultural Support," in _Serviceology for Designing the Future_, Takashi Maeno, et.al. Eds., pp.417-434, Springer, 2016. [[DOI](https://doi.org/10.1007/978-4-431-55861-3_29)]
 
 ### International Conference/Workshop Papers
-- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “MARL4DRP: Benchmarking Cooperative Multi-Agent Reinforcement Learning Algorithms for Drone Routing Problems,” _20th Pacific Rim International Conference on Artificial Intelligence (PRICAI2023)_, Jakarta, Indonesia, Nov. 2023. (to appear)
+- Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "LLM-based Interoperable IoT Service Platform," _The 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2024)_, Bangkok, Thailand, December 2024. (to appear)
+- Masahiro Kaji, Donghui Lin, and Fumito Uwano, "Safe Multi-agent Reinforcement Learning for Drone Routing Problems," _The 25th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2024)_, Kyoto, Japan, November 2024. (to appear)
+- Shiyao Ding, Hideki Aoyama, and Donghui Lin, “MARL4DRP: Benchmarking Cooperative Multi-Agent Reinforcement Learning Algorithms for Drone Routing Problems,” _20th Pacific Rim International Conference on Artificial Intelligence (PRICAI2023)_, pp.459-465, Jakarta, Indonesia, Nov. 2023. [[DOI](https://doi.org/10.1007/978-981-99-7025-4_40)]
 - Hideki Aoyama, Atuyoshi Kita, Shiyao Ding, and Donghui Lin, “Drone Routing Problem: Multi-agent Path Finding Problem for Safe and Efﬁcient Last-mile Delivery,” _Last-Mile Robotics Workshop on International Conference on Intelligent Robots and Systems (IROS2023)_, Detroit, Michigan, USA, Oct. 2023.
 - Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao, “Layer-refined Graph Convolutional Networks for Recommendation,” _The 39th IEEE International Conference on Data Engineering (IEEE ICDE 2023)_, pp.1247-1259, Anaheim, California, USA, April, 2023. [[DOI](https://doi.ieeecomputersociety.org/10.1109/ICDE55515.2023.00100)]
 - Shiyao Ding, Hideki Aoyama, and Donghui Lin, “Combining Multiagent Reinforcement Learning and Search Method for Drone Delivery on a Non-Grid Graph,” _20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS)_, pp.112-126, L'Aquila, Italy, July, 2022. [[DOI](https://doi.org/10.1007/978-3-031-18192-4_10)]
@@ -160,7 +163,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - IEEE International Conference on Web Services (ICWS), 2021-2024, Program Committee
 - IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, Program Committee
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2024, Program Committee
-- International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2023, Board Member
+- International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2025, Board Member
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
 - IEEE International Conference on Agents (ICA), 2021, Publicity Chair; 2024, Program Committee

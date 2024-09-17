@@ -103,7 +103,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - 中口孝雄，村上陽平，林冬惠，石田亨. 高階関数を導入した階層的サービス合成記述, _電子情報通信学会論文誌B_, Vol.J99-B, No.10, pp.834-842, 2016. [[DOI](https://doi.org/10.14923/transcomj.2016IAP0016)]
 
 ### Book Chapters
-- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., pp.23-56, Springer, 2024.
+- Donghui Lin, "Designing and Analyzing Human-in-the-loop Service Compositions," in _Human-Centered Services Computing for Smart Cities_, Yohei Murakami and Kosaku Kimura, Eds., pp.23-56, Springer, 2024. [[DOI](https://doi.org/10.1007/978-981-97-0779-9_2)] [[PDF](https://link.springer.com/content/pdf/10.1007/978-981-97-0779-9_2.pdf?pdf=inline%20link)]
 - Donghui Lin, Yohei Murakami and Toru Ishida, "Integrating Internet of Services and Internet of Things from a Multiagent Perspective," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.36-49, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_3)]
 - Yohei Murakami, Takao Nakaguchi, Donghui Lin, and Toru Ishida, "Two-Layer Architecture for Distributed Massively Multi-agent Systems," in _Massively Multi-Agent Systems II_, Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., pp.53-65, Springer, 2019. [[DOI](https://doi.org/10.1007/978-3-030-20937-7_4)]
 - Donghui Lin, Toru Ishida and Yohei Murakami, "Language Service Design Based on User-Centered QoS," in _Services Computing for Language Resources_, Yohei Murakami, Donghui Lin and Toru Ishida, Eds., pp.125-137, Springer, 2018. [[DOI](https://doi.org/10.1007/978-981-10-7793-7_8)]

@@ -31,7 +31,7 @@ layout: default
 - Ryutaro Yokotsuji (Bachelor degree, Mar. 2024)
 
 ### Speccial Research Students
-- Nathan Chang (Grenoble INP, France, June 2024 - December 2024)
+- Nathan Chang (Grenoble INP, France, Jun. 2024 - Dec. 2024)
 
 ## Supervised Students at Kyoto University (2018-2022)
 

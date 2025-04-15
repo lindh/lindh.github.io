@@ -7,7 +7,7 @@ layout: default
 <br>
 
 <img align="left" src="./images/lin.jpg"/>
-   [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Computer Science Course,
+   P.I., [Intelligent Computing Laboratory](https://www.ic.cs.okayama-u.ac.jp/en/), Computer Science Course,
    <br>
    Graduate School of Environmental, Life, Natural Science and Technology
    <br>
@@ -58,15 +58,16 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ### Research Interests
 - **Services Computing (Internet of Services)**: QoS-aware service composition, crowdsourcing, service recommendation, language service infrastructure, edge-cloud computing
 - **Internet of Things (IoT)**: IoT service infrastructure, self-organizing IoT service network, task allocation and resource allocation in IoT environments
-- **Multiagent Systems**: constraint optimization, multiagent reinforcement learning, interactive agents, multi-agent pathfinding
+- **Multiagent Systems**: multi-agent reinforcement learning, LLM agents, multi-agent pathfinding
 - **Intercultural Collaboration**: machine translation mediated communication, multi-language communication design, intercultural collaboration support in the real fields
 
 ### Research Projects
-- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2022-Sep. 2023
-- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (PI)**, Joint Research (Panasonic Corporation), Apr. 2021-Mar. 2022
-- Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
-- Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
-- Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (PI)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
+- Research on a Service Infrastructure for Supporting AI Agent Development in IoT Environments, **Principal Investigator (P.I.)**, JSPS Grant-in-Aid for Scientific Research (B) (25K03227), Apr. 2025-Mar. 2029
+- Non-Grid Pathfinding Optimization in Continuous Time and Space, **Principal Investigator (P.I.)**, Joint Research (Panasonic Corporation), Apr. 2022-Sep. 2023
+- Research on Multiagent Reinforcement Learning for Pathfinding, **Principal Investigator (P.I.)**, Joint Research (Panasonic Corporation), Apr. 2021-Mar. 2022
+- Research on Interoperable and Self-organizing IoT Service Infrastructure, **Principal Investigator (P.I.)**, JSPS Grant-in-Aid for Scientific Research (B) (21H03556), Apr. 2021-Mar. 2024
+- Realizing IoT Services Based on Multiagent Systems, **Principal Investigator (P.I.)**, JSPS Grant-in-Aid for Challenging Research (Exploratory) (20K21833), July. 2020-Mar. 2023
+- Realizing Situated Multi-Language Communication Environments Based on Service Composition, **Principal Investigator (P.I.)**, JSPS Grant-in-Aid for Scientific Research (B) (18H03341), Apr. 2018-Mar. 2021
 - [The Language Grid](http://langrid.org), **Vice Chairman, Board of Directors**, Non-funded research project at NPO Language Grid Association
 
 ## Recent Publications (2016~)
@@ -157,10 +158,10 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ## Professional Activity
 
 ### Conferences and Workshops
-- First Drone Routing Problems Competition in conjunction with AAMAS 2024, Co-organizer
+- First Drone Routing Problems Challenge in conjunction with AAMAS 2024-2025, Co-organizer
 - AAAI Conference on Artificial Intelligence (AAAI), 2023-2025, Program Committee
 - Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023-2024, Program Committee
-- IEEE International Conference on Web Services (ICWS), 2021-2024, Program Committee
+- IEEE International Conference on Web Services (ICWS), 2021-2025, Program Committee
 - IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, Program Committee
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2024, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2025, Board Member
@@ -182,6 +183,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 
 ### Review Service for Journals
 - IEEE Transactions on Services Computing
+- IEEE Transactions on Parallel and Distributed Systems 
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Systems, Man, and Cybernetics
 - IEEE Transactions on Cybernetics
@@ -202,5 +204,5 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - IEEE, IEICE, IPSJ, JSAI, Member
 - IEICE Technical Committee on Services Computing, 2013-Current, Committee Member
 - IEICE Technical Committee on Consensus, 2022-Current, Committee Member
-- IPSJ Chugoku Branch, 2023-, Secretary
+- IPSJ Chugoku Branch, 2023-2024, Secretary
 - NPO Language Grid Association, 2018-Current, Vice Chairman, Board of Directors

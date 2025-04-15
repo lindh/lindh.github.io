@@ -160,6 +160,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ### Conferences and Workshops
 - Drone Routing Problems Challenge in conjunction with AAMAS 2024-2025, Co-organizer
 - AAAI Conference on Artificial Intelligence (AAAI), 2023-2025, Program Committee
+- International Conference on Agents and Artificial Intelligence, 2025, Program Committee
 - Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023-2024, Program Committee
 - IEEE International Conference on Web Services (ICWS), 2021-2025, Program Committee
 - IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, Program Committee

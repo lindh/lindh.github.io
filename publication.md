@@ -18,7 +18,8 @@ layout: default
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### Journal Papers
-- Xin Zhou, Aixin Sun, Jie Zhang, and Donghui Lin, “The Crowd in MOOCs: A Study of Learning Patterns at Scale,” _Interactive Learning Environments_, August, 1–15, 2024. [[DOI](https://doi.org/10.1080/10494820.2024.2392175)]
+- Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "An Interoperable IoT Service Platform for Supporting the Development of LLM Agents," _IEICE Transactions on Information and Systems_, 2026. [[DOI](https://doi.org/10.1587/transinf.2025KBP0013)]
+- Xin Zhou, Aixin Sun, Jie Zhang, and Donghui Lin, “The Crowd in MOOCs: A Study of Learning Patterns at Scale,” _Interactive Learning Environments_, 33(3): 2136–2150, 2025. [[DOI](https://doi.org/10.1080/10494820.2024.2392175)]
 - Huichen Chou, Donghui Lin and Toru Ishida, "Understanding Open Collaboration of Wikipedia Good Articles with Factor Analysis," _Journal of Information and Knowledge Management_, 21(2), 2250030, 2022. [[DOI](https://doi.org/10.1142/S0219649222500307)]
 - Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.936-945, 2022. [[DOI](https://doi.org/10.1587/transinf.2021dap0010)]
 - Shiyao Ding and Donghui Lin, "Deep Coalitional Q-learning for Dynamic Coalition Formation in Edge Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.846-872, 2022. [[DOI](https://doi.org/10.1587/transinf.2021kbp0007)]
@@ -73,6 +74,12 @@ layout: default
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ### International Conference/Workshop Papers
+- Shiyao Ding, Fumito Uwano, Hideki Aoyama, and Donghui Lin, "Drone Routing Problems Challenge," _The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2026)_, Demonstration Track, May, 2026.
+- Ryoichiro Ogawa, Donghui Lin, and Fumito Uwano, "Designing LLM Agents for User-Centered Language Service," _The 15th International Conference on Language Resources and Evaluation (LREC 2026)_, May, 2026.
+- Tenyu Matsumoto, Fumito Uwano, Manabu Ohta, and Donghui Lin, "Multi-Vessel Route Planning under Limited Onboard Sensing via Asymmetric Reinforcement Learning," _The 31st International Symposium on Artificial Life and Robotics (AROB 2026)_, January, 2026
+- Ryotaro Murakami, Fumito Uwano, Manabu Ohta, and Donghui Lin, "Natural-Language-Supported Reinforcement Learning via Large Language Model in Sparse-Reward Environments," _The 31st International Symposium on Artificial Life and Robotics (AROB 2026)_, January, 2026
+- Ryotaro Murakami, Donghui Lin, Manabu Ohta, and Fumito Uwano, "Language-Assisted Reinforcement Learning via LLM-Generated Hints in ScriptWorld," _2025 IEEE 14th Global Conference on Consumer Electronics (GCCE 2025)_, September, 2025
+- Toru Ishida, Yohei Murakami, Donghui Lin, and Kemas Muslim Lhaksmana, "AI Agents: From Concept to Code to Commerce," _2025 International Conference on Information and Communication Technology (ICoICT 2025)_, July, 2025. [[DOI](https://doi.org/10.1109/ICoICT66265.2025.11193130)] (Invited Talk)
 - Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "LLM-based Interoperable IoT Service Platform," _The 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2024)_, Bangkok, Thailand, December 2024.
 - Masahiro Kaji, Donghui Lin, and Fumito Uwano, "Safe Multi-agent Reinforcement Learning for Drone Routing Problems," _The 25th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2024)_, Kyoto, Japan, November 2024.
 - Shiyao Ding, Hideki Aoyama, and Donghui Lin, “MARL4DRP: Benchmarking Cooperative Multi-Agent Reinforcement Learning Algorithms for Drone Routing Problems,” _20th Pacific Rim International Conference on Artificial Intelligence (PRICAI2023)_, pp.459-465, Jakarta, Indonesia, Nov. 2023. [[DOI](https://doi.org/10.1007/978-981-99-7025-4_40)]

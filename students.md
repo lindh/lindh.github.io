@@ -31,7 +31,10 @@ layout: default
 - Ryutaro Yokotsuji (Bachelor degree, Mar. 2024)
 
 ### Speccial Research Students
-- Nathan Chang (Grenoble INP, France, Jun. 2024 - Dec. 2024)
+- Lucas GRENECHE (Grenoble INP - Esisar, UGA, France, March 2026-)
+- Louann HINTZY (Grenoble INP - Ense3, UGA, France, June 2025-September 2025)
+- Arthur BAGNEAUX (Grenoble INP - Ensimag, UGA, France, June 2025-August 2025)
+- Nathan CHANG (Grenoble INP - Ense3, UGA, France, June 2024-December 2024)
 
 ## Supervised Students at Kyoto University (2018-2022)
 

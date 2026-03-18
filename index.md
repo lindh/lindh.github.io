@@ -165,7 +165,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 ## Professional Activity
 
 ### Conferences and Workshops
-- International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2026, Program Chair
+- [International Conference on Principles and Practice of Multi-Agent Systems (PRIMA) 2026](https://www.prima2026.org), Program Chair
 - Delivery Robot Routing Problems (DRP) Challenge in conjunction with AAMAS 2024-2026, Co-organizer
 - AAAI Conference on Artificial Intelligence (AAAI), 2023-2026, Program Committee
 - International Conference on Agents and Artificial Intelligence, 2025-2026, Program Committee

@@ -42,7 +42,7 @@ layout: default
 - **Oct. 2005-Sep. 2008:** Ph.D of Informatics
   - Department of Social Informatics, Kyoto University
   - Thesis: Modeling and Coordination in Interorganizational Workflow
-  - Supervisor: [Prof. Toru Isihda](https://oldtextbook.com/toru-ishida/)
+  - Supervisor: [Prof. Toru Ishida](https://oldtextbook.com/toru-ishida/)
 - **Sep. 2002-Mar. 2005:** Master of Engineering
   - Department of Computer Science and Engineering, Shanghai Jiao Tong University
   - Supervisor: Prof. Huanye Sheng

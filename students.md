@@ -6,20 +6,28 @@ layout: default
 
 ## Supervised Students at Okayama University (2023-)
 ### Master Students
-- Masahiro Kaji (Ongoing)
-- Kazuki Kita (Ongoing)
-- Masaya Nishikawa (Ongoing)
-- Shunsuke Muramatsu (Ongoing)
-- Ryutaro Yokotsuji (Ongoing)
 - Ryuki Nakata (Ongoing)
 - Ryoichiro Ogawa (Ongoing)
 - Jiseong Jeong (Ongoing)
-
-### Undergraduate Students
-- Aoi Shimamura (Ongoing)
 - Yushi Yamaguchi (Ongoing)
 - Haruto Oda (Ongoing)
 - Nanami Takita (Ongoing)
+- Masashi Takahashi (Ongoing)
+- Masahiro Kaji (Master degree, Mar. 2026)
+- Kazuki Kita (Master degree, Mar. 2026)
+- Masaya Nishikawa (Master degree, Mar. 2026)
+- Shunsuke Muramatsu (Master degree, Mar. 2026)
+- Ryutaro Yokotsuji (Master degree, Mar. 2026)
+
+### Undergraduate Students
+- Taihei Yamaguchi (Ongoing)
+- Yu Naoe (Ongoing)
+- Ruru Watanabe (Ongoing)
+- Kohsei Eguchi (Ongoing)
+- Aoi Shimamura (Bachelor degree, Mar. 2026)
+- Yushi Yamaguchi (Bachelor degree, Mar. 2026)
+- Haruto Oda (Bachelor degree, Mar. 2026)
+- Nanami Takita (Bachelor degree, Mar. 2026)
 - Ryuki Nakata (Bachelor degree, Mar. 2025)
 - Ryoichiro Ogawa (Bachelor degree, Mar. 2025)
 - Roshia (Bachelor degree, Mar. 2025)
@@ -30,7 +38,7 @@ layout: default
 - Shunsuke Muramatsu (Bachelor degree, Mar. 2024)
 - Ryutaro Yokotsuji (Bachelor degree, Mar. 2024)
 
-### Speccial Research Students
+### Special Research Students
 - Lucas GRENECHE (Grenoble INP - Esisar, UGA, France, March 2026-)
 - Louann HINTZY (Grenoble INP - Ense3, UGA, France, June 2025-September 2025)
 - Arthur BAGNEAUX (Grenoble INP - Ensimag, UGA, France, June 2025-August 2025)

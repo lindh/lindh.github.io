@@ -168,16 +168,16 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - [International Conference on Principles and Practice of Multi-Agent Systems (PRIMA) 2026](https://www.prima2026.org), Program Chair
 - Delivery Robot Routing Problems (DRP) Challenge in conjunction with AAMAS 2024-2026, Co-organizer
 - AAAI Conference on Artificial Intelligence (AAAI), 2023-2026, Program Committee
-- International Conference on Agents and Artificial Intelligence, 2025-2026, Program Committee
-- Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023-2025, Program Committee
+- International Conference on Agents and Artificial Intelligence (ICAART), 2025-2027, Program Committee
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023-2026, Program Committee
 - The Language Resources and Evaluation Conference (LREC), 2016-2026, Scientific Committee
 - IEEE International Conference on Web Services (ICWS), 2021-2026, Program Committee
-- IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, Program Committee
+- IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI/IAT), 2023-2024, 2026, Program Committee
 - IEEE International Symposium on Service Oriented System Engineering (SOSE), 2013-2024, Program Committee
 - International Conference on Culture and Computing 2011, Organization Co-Chair; 2013-2017, Program Co-Chair; 2020-2025, Board Member
 - The 36th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2022, Local Organization Committee
 - IEEE International Conference on Services Computing (SCC), 2013-2021, Program Committee
-- IEEE International Conference on Agents (ICA), 2021, Publicity Chair; 2024-2025, Program Committee
+- IEEE International Conference on Agentic AI (ICA), 2021, Publicity Chair; 2024-2026, Program Committee
 - International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019-2020, 2026, Program Committee
 - International Conference on Principles and Practice of Multi-Agent Systems (PRIMA), 2018, 2020, Program Committee
 - IEEE International Conference on Smart Data Services (SMDS), 2020-2021, Program Committee

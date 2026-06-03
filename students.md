@@ -39,6 +39,7 @@ layout: default
 - Ryutaro Yokotsuji (Bachelor degree, Mar. 2024)
 
 ### Special Research Students
+- Maximilien RAGOT (Grenoble INP - Ensimag, UGA, France, June 2026-)
 - Lucas GRENECHE (Grenoble INP - Esisar, UGA, France, March 2026-)
 - Louann HINTZY (Grenoble INP - Ense3, UGA, France, June 2025-September 2025)
 - Arthur BAGNEAUX (Grenoble INP - Ensimag, UGA, France, June 2025-August 2025)

@@ -7,7 +7,7 @@ layout: default
 ## Complete Publication List
 [Books](#books) &emsp; [Guest Editorials](#guest-editorial) &emsp; [International Journals](#journal-papers) &emsp; [Journals in Japanese](#journal-papers-in-japanese) &emsp; [Book Chapters](#book-chapters) &emsp; [International Conferences](#international-conferenceworkshop-papers)
 
-(Last updated: Aug. 2026)
+(Last updated: Sep. 2026)
 
 ### Books
 - Donghui Lin, Toru Ishida, Franco Zambonelli, and Itsuki Noda, Eds., _Massively Multi-Agent Systems II_. Lecture Notes in Artificial Intelligence, 11422, Springer, 2019. ISBN 978-3-030-20936-0. [[DOI](https://doi.org/10.1007/978-3-030-20937-7)]
@@ -74,6 +74,9 @@ layout: default
 - Yohei Murakami, Donghui Lin, Masahiro Tanaka, Takao Nakaguchi and Toru Ishida, "Service Grid Architecture," in _The Language Grid: Service-Oriented Collective Intelligence for Language Resource Interoperability_, Toru Ishida, Ed., pp.19-34, Cognitive Technologies Series, Springer, 2011. [[DOI](https://doi.org/10.1007/978-3-642-21178-2_2)]
 
 ### International Conference/Workshop Papers
+- Nanami Takita and Donghui Lin, "Constraint-Aware Decoupled Reasoning for Safe LLM-based IoT Control," _The 25th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2026)_, Brisbane, Queensland, Australia, December, 2026.
+- Tenyu Matsumoto, Manabu Ohta, Donghui Lin, and Fumito Uwano, "State-Dependent Risk Adaptation via Distributional Reinforcement Learning for Decentralized Multi-ASV Navigation," _The 25th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2026)_, Brisbane, Queensland, Australia, December, 2026.
+- Ryotaro Murakami, Manabu Ohta, Donghui Lin, and Fumito Uwano, "Efficient LLM-Assisted Reinforcement Learning via Entropy-Driven Invocation Scheduling and Performance-Based Termination," _The 25th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (IEEE/WIC WI-IAT 2026)_, Brisbane, Queensland, Australia, December, 2026.
 - Donghui Lin, Masahiro Kaji, Shiyao Ding, and Fumito Uwano, "LDRP: A Configurable Benchmark for Lifelong Delivery Robot Routing Problems on Non-Grid Maps," _The 23rd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026)_, November, 2026.
 - Yushi Yamaguchi and Donghui Lin, "Latent Reward Design for Drone Routing Problems via Multi-Agent Reinforcement Learning," _24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)_, October, 2026.
 - Lucas Greneche and Donghui Lin, "Graph Reshaping and Multi-Restart Priority-Based Search for Multi-Agent Drone Routing on Urban Graphs," _24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)_, October, 2026.

@@ -82,7 +82,7 @@ In October 2022, I started the [Intelligent Computing Laboratory](https://www.ic
 - Yichuan Jiang, Tun Lu, Donghui Lin, Yifeng Zeng, Ting Zhu, "Guest Editorial: Special Issue on Collaborative Computing and Crowd Intelligence," _International Journal of Cooperative Information System_, 29(01n02), 2020. [[DOI](https://doi.org/10.1142/S0218843020020013)]
 
 ### Journal Papers
-- Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "An Interoperable IoT Service Platform for Supporting the Development of LLM Agents," _IEICE Transactions on Information and Systems_, 2026. [[DOI](https://doi.org/10.1587/transinf.2025KBP0013)]
+- Ryutaro Yokotsuji, Donghui Lin, and Fumito Uwano, "An Interoperable IoT Service Platform for Supporting the Development of LLM Agents," _IEICE Transactions on Information and Systems_, E109-D(9), pp.1415-1424, 2026. [[DOI](https://doi.org/10.1587/transinf.2025KBP0013)]
 - Xin Zhou, Aixin Sun, Jie Zhang, and Donghui Lin, “The Crowd in MOOCs: A Study of Learning Patterns at Scale,” _Interactive Learning Environments_, 33(3): 2136–2150, 2025. [[DOI](https://doi.org/10.1080/10494820.2024.2392175)]
 - Huichen Chou, Donghui Lin and Toru Ishida, "Understanding Open Collaboration of Wikipedia Good Articles with Factor Analysis," _Journal of Information and Knowledge Management_, 21(2), 2250030, 2022. [[DOI](https://doi.org/10.1142/S0219649222500307)]
 - Shiyao Ding and Donghui Lin, "Multi-Agent Reinforcement Learning for Cooperative Task Offloading in Distributed Edge Cloud Computing," _IEICE Transactions on Information and Systems_, E105-D(5), pp.936-945, 2022. [[DOI](https://doi.org/10.1587/transinf.2021dap0010)]
